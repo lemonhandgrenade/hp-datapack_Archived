@@ -1,0 +1,54 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:paper",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "entity": "this",
+                            "name": {
+                                "text": "Balfour Blane",
+                                "italic": false
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "entity": "this",
+                            "lore": [
+                                {
+                                    "text": "1566-1629",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "Established the Committee on Experimental Charms.",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "#31 Bronze",
+                                    "italic": false,
+                                    "color": "#CD7F32"
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_custom_model_data",
+                            "value": 10003
+                        },
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": {
+                                "WizardCard": "1b",
+                                "nameInternal": "1b"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+tellraw @s [{"translate":"games.hp.capture","color":"dark_red","bold":true},{"bold":false,"color":"green","translate":"gui.yes","clickEvent":{"action":"run_command","value":"/trigger chessMove set 1"}}]

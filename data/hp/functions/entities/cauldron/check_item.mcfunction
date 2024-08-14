@@ -1,2 +1,0 @@
-execute unless entity @e[type=item,sort=nearest,distance=..0.2,nbt={Item:{id:"minecraft:glass_bottle",Count:1b,tag:{Ingredient:1b}}},limit=1] if score @s potionMath matches ..30 run function hp:entities/cauldron/add_item
-execute if entity @e[type=item,sort=nearest,distance=..0.2,nbt={Item:{id:"minecraft:glass_bottle",Count:1b,tag:{Ingredient:1b}}},limit=1] run function hp:entities/cauldron/final_potion

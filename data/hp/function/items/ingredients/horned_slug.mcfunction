@@ -1,0 +1,1 @@
+give @s minecraft:chain_command_block[minecraft:custom_model_data=1280,minecraft:lore=['{"translate":"item.hp.potion_use","italic":false}'],minecraft:custom_name='{"translate":"item.hp.horned_slug","color":"#B27C5C","italic":false}',minecraft:custom_data={Color:7423020,Ingredient:1b,MortarPestle:1b,PotionID:1280,Weight:14}] 1

@@ -1,1 +1,0 @@
-give @s bundle{display:{Name:'{"translate":"item.hp.ravenclaw_trunk","color":"#683e29"}',Lore:['{"translate":"item.hp.ravenclaw_trunk.lore","italic":false}']},CustomModelData:50,Trunk:1b}

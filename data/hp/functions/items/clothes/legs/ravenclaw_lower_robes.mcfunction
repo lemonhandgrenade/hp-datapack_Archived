@@ -1,1 +1,0 @@
-give @s leather_leggings{display:{Name:'{"translate":"item.hp.ravenclaw_lower_robes","italic":false}',color:7248624},CustomModelData:1} 1

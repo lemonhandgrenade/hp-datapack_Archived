@@ -1,4 +1,0 @@
-summon zombie ~ ~ ~ {Silent:1b,Team:"noCollision",CustomNameVisible:1b,DeathLootTable:"null",Health:40.0f,IsBaby:0b,CanBreakDoors:0b,Tags:["werewolf","specialMob","new","forceInvis"],CustomName:'{"text":"Werewolf"}',ArmorItems:[{},{},{},{id:"minecraft:heart_of_the_sea",Count:1b,tag:{CustomModelData:1140}}],ArmorDropChances:[0.085F,0.085F,0.085F,0.000F],Attributes:[{Name:generic.max_health,Base:40.0},{Name:generic.follow_range,Base:60},{Name:generic.knockback_resistance,Base:0.4},{Name:generic.movement_speed,Base:0.4},{Name:generic.attack_damage,Base:6},{Name:generic.armor,Base:3},{Name:generic.attack_knockback,Base:1},{Name:zombie.spawn_reinforcements,Base:0}],ActiveEffects:[{Id:14,Amplifier:1b,Duration:1000000,ShowParticles:0b}]}
-
-scoreboard players operation @e[type=zombie,tag=werewolf,tag=new,distance=..1] UID = @s UID
-tag @e[type=zombie,tag=werewolf,tag=new,distance=..1] remove new

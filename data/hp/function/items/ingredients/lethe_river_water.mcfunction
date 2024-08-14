@@ -1,0 +1,1 @@
+give @s minecraft:chain_command_block[minecraft:custom_model_data=1480,minecraft:lore=['[{"translate":"item.hp.obtained","italic":false},{"translate":"item.hp.lethe_river_water.from","italic":false}]'],minecraft:custom_name='{"translate":"item.hp.lethe_river_water","color":"#0c477b","italic":false}',minecraft:custom_data={Color:870266,Ingredient:1b,PotionID:1480,Weight:100}] 1

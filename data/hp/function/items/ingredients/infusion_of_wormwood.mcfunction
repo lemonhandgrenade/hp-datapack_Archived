@@ -1,0 +1,1 @@
+give @s minecraft:chain_command_block[minecraft:custom_model_data=1340,minecraft:lore=['[{"translate":"item.hp.obtained","italic":false},{"translate":"item.hp.infusion_of_wormwood.from","italic":false}]'],minecraft:custom_name='{"translate":"item.hp.infusion_of_wormwood","color":"#32724f","italic":false}',minecraft:custom_data={Ingredient:1b,PotionID:1340,Weight:300}] 1

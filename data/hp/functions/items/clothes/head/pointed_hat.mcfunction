@@ -1,1 +1,0 @@
-give @s repeating_command_block{display:{Name:'[{"translate":"item.hp.pointed_hat","color":"black","italic":false}]'},HideFlags:33,CustomModelData:3,Hat:1b} 1

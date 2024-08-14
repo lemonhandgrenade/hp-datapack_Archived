@@ -1,0 +1,54 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:paper",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "entity": "this",
+                            "name": {
+                                "text": "Felix Summerbee",
+                                "italic": false
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "entity": "this",
+                            "lore": [
+                                {
+                                    "text": "1447-1508",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "Inventor of Cheering Charms.",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "#52 Silver",
+                                    "italic": false,
+                                    "color": "#878E9F"
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_custom_model_data",
+                            "value": 10001
+                        },
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": {
+                                "WizardCard": "1b",
+                                "nameInternal": "1b"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

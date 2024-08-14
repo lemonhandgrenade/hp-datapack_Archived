@@ -1,1 +1,0 @@
-give @s stick{display:{Name:'{"translate":"item.hp.cleansweep_one","italic":false}',Lore:['{"translate":"item.hp.cleansweep","color":"#9D7753","bold":true,"italic":false}','{"translate":"item.hp.cleansweep_one","color":"#65350F","italic":false}','{"translate":"item.hp.cleansweep_one.lore","italic":false}']},CustomModelData:6004,Broom:1b,broomID:4}

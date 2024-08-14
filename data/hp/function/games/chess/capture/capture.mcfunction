@@ -1,0 +1,2 @@
+execute as @e[tag=chessSelected,distance=..5,limit=1,sort=nearest] at @s as @e[tag=chessPiece,distance=..0.01,tag=!chessSelected,tag=!chessMiddle] run function hp:games/chess/capture/effect
+execute as @e[tag=chessSelected,limit=1,sort=nearest,distance=..5] at @s run kill @e[tag=chessPiece,distance=..0.01,tag=!chessSelected,tag=!chessMiddle]

@@ -1,0 +1,3 @@
+execute if score left values < right values run data modify entity @s ArmorItems[3].components.minecraft:custom_model_data set value 15
+execute if score left values > right values run data modify entity @s ArmorItems[3].components.minecraft:custom_model_data set value 14
+execute if score left values = right values run data modify entity @s ArmorItems[3].components.minecraft:custom_model_data set value 13

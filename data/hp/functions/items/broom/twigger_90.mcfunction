@@ -1,1 +1,0 @@
-give @s stick{display:{Name:'{"translate":"item.hp.twigger_90","italic":false}',Lore:['{"translate":"item.hp.flyte_and_barker","color":"#74467c","bold":true,"italic":false}','{"translate":"item.hp.twigger_90","color":"#232323","italic":false}','{"translate":"item.hp.broom_racing","italic":false}']},CustomModelData:6036,Broom:1b,broomID:36}

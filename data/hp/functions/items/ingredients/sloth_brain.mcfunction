@@ -1,1 +1,0 @@
-give @s chain_command_block{display:{Name:'{"translate":"item.hp.sloth_brain","color":"#946b5D","italic":false}',Lore:['[{"translate":"item.hp.obtained","italic":false},{"translate":"item.hp.sloth_brain.from","italic":false}]']},Weight:48,Ingredient:1b,CustomModelData:2310,PotionID:2310} 1

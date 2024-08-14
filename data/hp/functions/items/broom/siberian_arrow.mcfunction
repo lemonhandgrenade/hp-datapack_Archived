@@ -1,1 +1,0 @@
-give @s stick{display:{Name:'{"translate":"item.hp.siberian_arrow","italic":false}',Lore:['{"translate":"item.hp.unknown_maker","color":"light_purple","bold":true,"italic":false}','{"translate":"item.hp.siberian_arrow","color":"#e1bf70","italic":false}','{"translate":"item.hp.broom_racing","italic":false}']},CustomModelData:6028,Broom:1b,broomID:28}

@@ -1,1 +1,0 @@
-give @s chain_command_block{display:{Name:'{"translate":"item.hp.moonstone_crushed","color":"#EFEFD8","italic":false}',Lore:['{"translate":"item.hp.potion_use","italic":false}']},Weight:40,Ingredient:1b,CustomModelData:1681,PotionID:1681,Color:15132608} 1

@@ -1,1 +1,0 @@
-give @s stick{display:{Name:'{"translate":"item.hp.silver_arrow","italic":false}',Lore:['{"translate":"item.hp.leonard_jewkes","color":"#e8e4d7","bold":true,"italic":false}','{"translate":"item.hp.silver_arrow","color":"#838383","italic":false}','{"translate":"item.hp.broom_antique","italic":false}']},CustomModelData:6029,Broom:1b,broomID:29}

@@ -1,0 +1,1 @@
+give @s minecraft:paper[minecraft:custom_model_data=1,minecraft:lore=['{"text":"Books","italic":false}','{"text":"  The Standard Book of Spells, Grade 5","italic":false}','{"text":"    by Miranda Goshawk","italic":false}'],minecraft:custom_name='{"text":"Hogwarts Shopping List","italic":false}'] 1

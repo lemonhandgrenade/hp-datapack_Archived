@@ -1,1 +1,0 @@
-give @s repeating_command_block{display:{Name:'{"translate":"item.hp.earmuffs","color":"white","italic":false}'},HideFlags:33,CustomModelData:4,Earmuffs:1b,Hat:1b} 1

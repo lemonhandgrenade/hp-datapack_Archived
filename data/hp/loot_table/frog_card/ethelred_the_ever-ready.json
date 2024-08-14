@@ -1,0 +1,58 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:paper",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "entity": "this",
+                            "name": {
+                                "text": "Ethelred the Ever-Ready",
+                                "italic": false
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "entity": "this",
+                            "lore": [
+                                {
+                                    "text": "Medieval, dates unknown",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "Famous for taking offence at nothing and",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "cursing innocent bystanders. Died in Gaol.",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "#51 Bronze",
+                                    "italic": false,
+                                    "color": "#CD7F32"
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_custom_model_data",
+                            "value": 10003
+                        },
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": {
+                                "WizardCard": "1b",
+                                "nameInternal": "1b"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

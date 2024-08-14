@@ -1,0 +1,1 @@
+give @s minecraft:stick[minecraft:custom_model_data=3917,minecraft:custom_name='{"translate":"item.hp.wand","italic":false}',minecraft:custom_data={Core:17,CoreName:'{"translate":"core.hp.troll_whisker"}',Set:0b,Wand:1b,Wood:39,WoodName:'{"translate":"wood.hp.rowan"}'}] 1

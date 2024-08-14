@@ -1,0 +1,1 @@
+give @s stick[custom_model_data=6001,lore=['{"translate":"item.hp.unknown_maker","color":"light_purple","bold":true,"italic":false}','{"translate":"item.hp.air_wave_gold","color":"#fed73d","italic":false}','{"translate":"item.hp.broom_racing","italic":false}'],custom_name='{"translate":"item.hp.air_wave_gold","italic":false}',custom_data={Broom:1b,broomID:1}]

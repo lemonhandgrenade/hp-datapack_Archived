@@ -1,0 +1,134 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:potion"
+                }
+            ],
+            "functions": [
+            	{
+					"function": "minecraft:set_custom_data",
+					"tag": {
+						"PotionID":2900,
+						"Ingredient": 1
+					}
+				},
+                {
+                    "function": "minecraft:set_name",
+                    "name": {
+                        "translate": "item.hp.essence_of_dittany",
+                        "color": "#5A792A",
+                        "italic": false
+                    }
+                },
+                {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                },
+                {
+                    "function": "minecraft:set_custom_model_data",
+                    "value": 78
+                },
+                {
+                    "function": "minecraft:set_components",
+                    "components": {
+                        "minecraft:potion_contents": {
+                            "custom_color": 5929258
+                        },
+                        "minecraft:hide_additional_tooltip": {}
+                    }
+                },
+                {
+                    "function": "minecraft:set_lore",
+                    "lore": [
+                        {
+                            "translate": "item.hp.essence_of_dittany.lore",
+                            "italic": false
+                        }
+                    ],
+                    "mode": "replace_all"
+                },
+                {
+                    "function": "minecraft:set_lore",
+                    "lore": [
+                        [
+                            {
+                                "translate": "item.hp.potion.quality",
+                                "italic": false
+                            },
+                            {
+                                "translate": "item.hp.potion.quality.perfect",
+                                "color": "white",
+                                "italic": false
+                            }
+                        ]
+                    ],
+                    "mode": "append",
+                    "conditions": [
+                        {
+                            "condition": "minecraft:entity_scores",
+                            "entity": "this",
+                            "scores": {
+                                "potionMath": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "function": "minecraft:set_lore",
+                    "lore": [
+                        [
+                            {
+                                "translate": "item.hp.potion.quality",
+                                "italic": false
+                            },
+                            {
+                                "translate": "item.hp.potion.quality.high",
+                                "color": "white",
+                                "italic": false
+                            }
+                        ]
+                    ],
+                    "mode": "append",
+                    "conditions": [
+                        {
+                            "condition": "minecraft:entity_scores",
+                            "entity": "this",
+                            "scores": {
+                                "potionMath": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "function": "minecraft:copy_custom_data",
+                    "source": {
+                        "type": "minecraft:storage",
+                        "source": "hp:potion"
+                    },
+                    "ops": [
+                        {
+                            "source": "Quality",
+                            "target": "Quality",
+                            "op": "replace"
+                        }
+                    ]
+                }
+            ],
+            "conditions": [
+                {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "potionMath": {
+                            "max": 1
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

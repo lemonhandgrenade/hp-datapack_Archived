@@ -1,0 +1,1 @@
+{"pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"minecraft:stone","functions":[{"function":"minecraft:set_name","entity":"this","name":{"nbt":"Items[{Slot:0b}].components.minecraft:custom_data.SkullOwner.Name","block":"0 -63 0"}}]}]}]}

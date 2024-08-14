@@ -1,1 +1,0 @@
-give @s leather_leggings{display:{Name:'{"translate":"item.hp.gryffindor_lower_robes","italic":false}',color:16719104},CustomModelData:1} 1

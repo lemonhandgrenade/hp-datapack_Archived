@@ -1,1 +1,0 @@
-give @s wooden_sword{display:{Name:'{"translate":"item.hp.beaters_bat","color":"#693C2F","italic":false}',Lore:['{"translate":"item.hp.beaters_bat.lore","italic":false}']},HideFlags:3,CustomModelData:1,Enchantments:[{id:"minecraft:knockback",lvl:3s}]} 1

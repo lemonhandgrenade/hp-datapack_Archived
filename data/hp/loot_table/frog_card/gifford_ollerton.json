@@ -1,0 +1,58 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:paper",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "entity": "this",
+                            "name": {
+                                "text": "Gifford Ollerton",
+                                "italic": false
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "entity": "this",
+                            "lore": [
+                                {
+                                    "text": "1390-1441",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "Famous giant-slayer, killed the",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "giant Hengist of Upper Barnton.",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "#57 Bronze",
+                                    "italic": false,
+                                    "color": "#CD7F32"
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_custom_model_data",
+                            "value": 10003
+                        },
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": {
+                                "WizardCard": "1b",
+                                "nameInternal": "1b"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

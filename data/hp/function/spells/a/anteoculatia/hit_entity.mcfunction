@@ -1,0 +1,3 @@
+execute as @e[tag=spellHit,predicate=hp:player/no_helmet] at @s run particle dust_color_transition{from_color:[.8,.2,.3],scale:1,to_color:[.6,0.,.8]} ~ ~2.1 ~ 0.3 0.2 0.3 0 100 normal
+execute as @e[tag=spellHit,predicate=hp:player/no_helmet] run item replace entity @s armor.head with repeating_command_block[custom_name='{"color":"white","italic":false,"text":"Antlers"}',custom_model_data=1,custom_data={Natural:1b},enchantments={levels:{"minecraft:binding_curse":1}},block_entity_data={id:"minecraft:repeating_command_block",CustomName:'{"color":"white","italic":false,"text":"Antlers"}'}] 1
+execute if entity @s[type=area_effect_cloud] run function hp:spells/_base/private/end

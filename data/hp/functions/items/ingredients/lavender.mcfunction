@@ -1,1 +1,0 @@
-give @s chain_command_block{display:{Name:'{"translate":"item.hp.lavender","color":"#A36ED8","italic":false}',Lore:['{"translate":"item.hp.potion_use","italic":false}']},Ingredient:1b,Weight:2,CustomModelData:1440,PotionID:1440,Color:10447826} 1

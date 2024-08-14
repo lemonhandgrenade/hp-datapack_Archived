@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:repeating_command_block",
+      "components": {"minecraft:custom_model_data": 1002}
+    },
+    "title": {"translate":"advancements.hp.second_year.title"},
+    "description": {"translate":"advancements.hp.second_year_slytherin.description"},
+    "frame": "goal",
+		"announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "hp:pack/houses/year/slytherin/first_year",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "nbt": "{Tags:[\"slytherin\",\"secondYear\"]}"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

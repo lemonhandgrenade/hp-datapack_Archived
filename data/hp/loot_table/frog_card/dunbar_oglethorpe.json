@@ -1,0 +1,70 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:paper",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "entity": "this",
+                            "name": {
+                                "text": "Dunbar Oglethorpe",
+                                "italic": false
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "entity": "this",
+                            "lore": [
+                                {
+                                    "text": "1968-present",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "Chief of Q.U.A.B.B.L.E.",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "(Quidditch Union for the",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "Administration and Betterment",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "of the British League",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "and its Endeavours).",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "#45 Silver",
+                                    "italic": false,
+                                    "color": "#878E9F"
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_custom_model_data",
+                            "value": 10001
+                        },
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": {
+                                "WizardCard": "1b",
+                                "nameInternal": "1b"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

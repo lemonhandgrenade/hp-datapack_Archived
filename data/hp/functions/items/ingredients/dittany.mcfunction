@@ -1,1 +1,0 @@
-give @s chain_command_block{display:{Name:'{"translate":"item.hp.dittany","color":"#5A792A","italic":false}',Lore:['{"translate":"item.hp.potion_use","italic":false}']},Weight:10,Ingredient:1b,CustomModelData:710,PotionID:710,Color:6785327} 1

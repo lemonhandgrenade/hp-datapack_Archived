@@ -1,0 +1,1 @@
+give @s minecraft:dried_kelp[minecraft:custom_model_data=1,minecraft:lore=['{"translate":"item.hp.bertie_botts_beans.lore","italic":false}'],minecraft:custom_name='{"translate":"item.hp.bertie_botts_beans","italic":false}',minecraft:custom_data={bertieBottsBeans:1b}]

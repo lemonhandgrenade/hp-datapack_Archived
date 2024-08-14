@@ -1,0 +1,78 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:paper",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "entity": "this",
+                            "name": {
+                                "text": "Almeric Sawbridge",
+                                "italic": false
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "entity": "this",
+                            "lore": [
+                                {
+                                    "text": "1602-1699",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "Famous for conquering the",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "river troll that was terrorising",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "those trying to cross the Wye River.",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "River troll in question believed to",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "be one of the largest ever",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "to exist in Britain",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "with a weight of one tonne.",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "#26 Bronze",
+                                    "italic": false,
+                                    "color": "#CD7F32"
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_custom_model_data",
+                            "value": 10003
+                        },
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": {
+                                "WizardCard": "1b",
+                                "nameInternal": "1b"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

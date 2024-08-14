@@ -1,0 +1,36 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:raw_gold"
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:set_custom_model_data",
+          "value": 1
+        },
+        {
+          "function": "minecraft:set_custom_data",
+          "tag": {
+          	"Real":1,
+          	"Money":1,
+          	"Galleon":1,
+          	"Weight":66
+          }
+        },
+        {
+          "function": "minecraft:set_name",
+          "name": {
+            "translate": "item.hp.galleon",
+            "color": "#BD7C2A",
+            "italic": false
+          }
+        }
+      ]
+    }
+  ]
+}

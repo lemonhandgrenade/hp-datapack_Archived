@@ -1,1 +1,0 @@
-give @s chain_command_block{display:{Name:'{"translate":"item.hp.lethe_river_water","color":"#0c477b","italic":false}',Lore:['[{"translate":"item.hp.obtained","italic":false},{"translate":"item.hp.lethe_river_water.from","italic":false}]']},CustomModelData:1480,Weight:100,Ingredient:1b,PotionID:1480,Color:870266} 1

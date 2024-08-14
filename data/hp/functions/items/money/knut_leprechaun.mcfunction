@@ -1,1 +1,0 @@
-give @s raw_copper{CustomModelData:1,Weight:57,Knut:1b,Money:1b,Real:0b,display:{Name:'{"italic":false,"color":"#855137","translate":"item.hp.knut"}'}} 1

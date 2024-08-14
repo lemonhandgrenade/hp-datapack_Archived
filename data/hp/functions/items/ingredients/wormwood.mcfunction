@@ -1,1 +1,0 @@
-give @s chain_command_block{display:{Name:'{"translate":"item.hp.wormwood","color":"#4A6838","italic":false}',Lore:['{"translate":"item.hp.wormwood.lore","italic":false}']},Ingredient:1b,CustomModelData:2870,PotionID:2870,Color:8302944} 1

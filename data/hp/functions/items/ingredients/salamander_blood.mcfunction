@@ -1,1 +1,0 @@
-give @s chain_command_block{display:{Name:'{"translate":"item.hp.salamander_blood","color":"#A80303","italic":false}',Lore:['[{"translate":"item.hp.obtained","italic":false},{"translate":"item.hp.salamander_blood.from","italic":false}]']},CustomModelData:2180,PotionID:2180,Weight:150,Ingredient:1b} 1

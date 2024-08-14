@@ -1,0 +1,70 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:paper",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "entity": "this",
+                            "name": {
+                                "text": "Musidora Barkwith",
+                                "italic": false
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "entity": "this",
+                            "lore": [
+                                {
+                                    "text": "1520-1666",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "Composer of the unfinished Wizarding Suite,",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "which features an exploding tuba.",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "Its performance has been banned since",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "its last performance in 1902, when it",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "blew the roof out of Ackerley Town Hall.",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "#50 Bronze",
+                                    "italic": false,
+                                    "color": "#CD7F32"
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_custom_model_data",
+                            "value": 10003
+                        },
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": {
+                                "WizardCard": "1b",
+                                "nameInternal": "1b"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

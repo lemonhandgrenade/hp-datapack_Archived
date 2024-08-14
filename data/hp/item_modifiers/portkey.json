@@ -1,1 +1,0 @@
-[{"function":"minecraft:set_nbt","tag":"{Portkey:1b,PortkeyActive:0b}"},{"function":"minecraft:copy_nbt","source":{"type":"minecraft:storage","source":"hp:portkey"},"ops":[{"source":"position","target":"PortkeyPos","op":"replace"}]}]

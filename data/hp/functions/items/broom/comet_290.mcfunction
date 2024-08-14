@@ -1,1 +1,0 @@
-give @s stick{display:{Name:'{"translate":"item.hp.comet_290","italic":false}',Lore:['{"translate":"item.hp.comet","color":"#59391f","bold":true,"italic":false}','{"translate":"item.hp.comet_290","color":"#3a3a37","italic":false}','{"translate":"item.hp.broom_common","italic":false}']},CustomModelData:6015,Broom:1b,broomID:15}

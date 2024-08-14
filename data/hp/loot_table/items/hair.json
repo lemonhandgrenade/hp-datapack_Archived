@@ -1,0 +1,83 @@
+
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:string"
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:set_name",
+          "entity": "this",
+          "name": [
+            {
+              "nbt": "name",
+              "storage": "hp:temp",
+              "italic": false
+            },
+            {
+              "text": "'s Hair",
+              "italic": false
+            }
+          ]
+        },
+        {
+          "function": "minecraft:set_lore",
+          "entity": "this",
+          "lore": [
+            [
+              {
+                "text": "A strand of ",
+                "italic": false
+              },
+              {
+                "nbt": "name",
+                "storage": "hp:temp"
+              },
+              {
+                "text": "'s hair",
+                "italic": false
+              }
+            ]
+          ],
+          "mode": "replace_all"
+        },
+        {
+          "function": "minecraft:set_custom_model_data",
+          "value": 1
+        },
+        {
+          "function": "minecraft:set_custom_data",
+          "tag": {
+          	"PotionID":1190,
+          	"Ingredient":1,
+          	"Color":5852954
+          }
+        },
+        {
+          "function": "minecraft:copy_custom_data",
+          "source": {
+            "type": "minecraft:storage",
+            "source": "hp:temp"
+          },
+          "ops": [
+            {
+              "source": "uuid",
+              "target": "playerUUID",
+              "op": "replace"
+            },
+            {
+              "source": "name",
+              "target": "playerName",
+              "op": "replace"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,0 @@
-give @s chain_command_block{display:{Name:'{"translate":"item.hp.moonstone","color":"#EFEFD8","italic":false}',Lore:['{"translate":"item.hp.potion_use","italic":false}']},Weight:40,MortarPestle:1b,Ingredient:1b,CustomModelData:1680,PotionID:1680,Color:15132608} 1

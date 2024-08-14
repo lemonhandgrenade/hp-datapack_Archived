@@ -1,1 +1,0 @@
-{"pools":[{"entries":[{"type":"minecraft:loot_table","name":"hp:plants/moly"}],"rolls":1.0},{"entries":[{"type":"minecraft:loot_table","name":"hp:items/seeds/moly"}],"rolls":{"min":1.0,"max":3.0}}]}

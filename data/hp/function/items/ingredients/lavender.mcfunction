@@ -1,0 +1,1 @@
+give @s minecraft:chain_command_block[minecraft:custom_model_data=1440,minecraft:lore=['{"translate":"item.hp.potion_use","italic":false}'],minecraft:custom_name='{"translate":"item.hp.lavender","color":"#A36ED8","italic":false}',minecraft:custom_data={Color:10447826,Ingredient:1b,PotionID:1440,Weight:2}] 1

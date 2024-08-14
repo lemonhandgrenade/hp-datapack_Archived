@@ -1,1 +1,0 @@
-tellraw @s ["",{"translate":"item.hp.polyjuice_potion.error","color":"dark_red"}]

@@ -1,0 +1,66 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:paper",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "entity": "this",
+                            "name": {
+                                "text": "Miranda Goshawk",
+                                "italic": false
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "entity": "this",
+                            "lore": [
+                                {
+                                    "text": "1921-present",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "Miranda Goshawk is the author of",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "The Standard Book of Spells series,",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "which are set textbooks for the",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "students of Hogwarts.",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "#46 Bronze",
+                                    "italic": false,
+                                    "color": "#CD7F32"
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_custom_model_data",
+                            "value": 10003
+                        },
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": {
+                                "WizardCard": "1b",
+                                "nameInternal": "1b"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

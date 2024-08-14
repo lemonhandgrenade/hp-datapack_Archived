@@ -1,0 +1,1 @@
+give @s minecraft:chain_command_block[minecraft:custom_model_data=420,minecraft:lore=['[{"translate":"item.hp.obtained","italic":false},{"translate":"item.hp.boomslang_skin.from","italic":false}]'],minecraft:custom_name='{"translate":"item.hp.boomslang_skin","color":"#7A994A","italic":false}',minecraft:custom_data={Ingredient:1b,PotionID:420,Weight:10}] 1

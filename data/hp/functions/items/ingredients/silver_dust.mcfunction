@@ -1,1 +1,0 @@
-give @s chain_command_block{display:{Name:'{"translate":"item.hp.silver_dust","color":"#878E9F","italic":false}',Lore:['{"translate":"item.hp.potion_use","italic":false}']},Weight:300,Ingredient:1b,CustomModelData:2290,PotionID:2290,Color:10724770} 1

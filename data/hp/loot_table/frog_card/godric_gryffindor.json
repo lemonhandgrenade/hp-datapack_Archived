@@ -1,0 +1,62 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:paper",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "entity": "this",
+                            "name": {
+                                "text": "Godric Gryffindor",
+                                "italic": false
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "entity": "this",
+                            "lore": [
+                                {
+                                    "text": "Medieval, dates unknown",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "Co-founder of Hogwarts.",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "Gave his name to one of",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "the four Hogwarts houses.",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "#41 Gold",
+                                    "italic": false,
+                                    "color": "#FFD700"
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_custom_model_data",
+                            "value": 10002
+                        },
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": {
+                                "WizardCard": "1b",
+                                "nameInternal": "1b"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

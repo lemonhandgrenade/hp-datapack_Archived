@@ -1,1 +1,0 @@
-give @s chain_command_block{display:{Name:'{"translate":"item.hp.standard_ingredient","color":"#394000","italic":false}',Lore:['{"translate":"item.hp.standard_ingredient.lore","italic":false}']},Ingredient:1b,MortarPestle:1b,CustomModelData:2440,PotionID:2440,Color:2700800} 1

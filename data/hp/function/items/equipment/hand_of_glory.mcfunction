@@ -1,0 +1,1 @@
+give @s minecraft:warped_fungus_on_a_stick[minecraft:custom_model_data=1,minecraft:lore=['{"translate":"item.hp.hand_of_glory.lore","italic":false}','{"translate":"item.hp.hand_of_glory.use"}'],minecraft:unbreakable={show_in_tooltip:0b},minecraft:custom_name='{"translate":"item.hp.hand_of_glory","italic":false}',minecraft:custom_data={handOfGlory:1b}] 1

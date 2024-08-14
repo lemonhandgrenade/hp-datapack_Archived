@@ -1,1 +1,0 @@
-give @s snowball{display:{Name:'{"translate":"item.hp.dungbomb","color":"#964B00","italic":false}',Lore:['{"translate":"item.hp.dungbomb.lore","italic":false}','{"translate":"item.hp.dungbomb.use"}']},CustomModelData:10,dungbomb:1b,specialBall:1b} 1

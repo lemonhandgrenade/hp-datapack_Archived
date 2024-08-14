@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "Installed Datapacks",
+        "description": "",
+        "icon": {
+            "id": "minecraft:knowledge_book"
+        },
+        "frame": "challenge",
+        "background": "minecraft:textures/block/sculk_sensor_bottom.png",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

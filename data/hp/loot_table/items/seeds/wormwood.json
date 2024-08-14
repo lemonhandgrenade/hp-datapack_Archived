@@ -1,0 +1,48 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:item_frame",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "name": {
+                                "translate": "item.hp.wolfsbane_seeds",
+                                "italic": false
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_custom_model_data",
+                            "value": 920
+                        },
+                        {
+                        	"function": "minecraft:set_custom_data",
+                        	"tag": {
+                        		"Seed": 1
+                        	}
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:entity_data": {
+                                    "id": "minecraft:item_frame",
+                                    "Invisible":1,
+                                    "Tags": ["plant","generic","wormwood"],
+                                    "Item": {
+                                    	"id": "minecraft:flowering_azalea_leaves",
+                                    	"components": {
+                                    		"minecraft:custom_model_data":920
+                                    	}
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

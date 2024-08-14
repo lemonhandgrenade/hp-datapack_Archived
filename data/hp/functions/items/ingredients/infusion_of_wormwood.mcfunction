@@ -1,1 +1,0 @@
-give @s chain_command_block{display:{Name:'{"translate":"item.hp.infusion_of_wormwood","color":"#32724f","italic":false}',Lore:['[{"translate":"item.hp.obtained","italic":false},{"translate":"item.hp.infusion_of_wormwood.from","italic":false}]']},Weight:300,Ingredient:1b,CustomModelData:1340,PotionID:1340} 1

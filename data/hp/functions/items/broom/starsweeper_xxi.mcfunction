@@ -1,1 +1,0 @@
-give @s stick{display:{Name:'{"translate":"item.hp.starsweeper_xxi","italic":false}',Lore:['{"translate":"item.hp.unknown_maker","color":"light_purple","bold":true,"italic":false}','{"translate":"item.hp.starsweeper_xxi","color":"#75655c","italic":false}','{"translate":"item.hp.broom_world_racing","italic":false}']},CustomModelData:6030,Broom:1b,broomID:30}

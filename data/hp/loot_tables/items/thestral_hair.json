@@ -1,1 +1,0 @@
-{"pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"minecraft:string","functions":[{"function":"minecraft:set_name","name":{"translate":"item.hp.thestral_hair","italic":false}},{"function":"minecraft:set_nbt","tag":"{CustomModelData:2}"}]}]}]}

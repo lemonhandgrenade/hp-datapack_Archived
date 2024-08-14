@@ -1,0 +1,70 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:paper",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "entity": "this",
+                            "name": {
+                                "text": "Cyprian Youdle",
+                                "italic": false
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "entity": "this",
+                            "lore": [
+                                {
+                                    "text": "1312-1357",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "Only Quidditch referee ever to die",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "during a match.",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "The originator of the curse was never",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "caught but believed to have",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "been a member of the crowd.",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "#43 Silver",
+                                    "italic": false,
+                                    "color": "#878E9F"
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_custom_model_data",
+                            "value": 10001
+                        },
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": {
+                                "WizardCard": "1b",
+                                "nameInternal": "1b"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

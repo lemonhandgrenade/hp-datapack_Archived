@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:snowball",count:1,tag:{display:{Name:'{"translate":"item.hp.quaffle","color":"red","italic":false}',Lore:['{"translate":"item.hp.quaffle.lore","italic":false}']},CustomModelData:2,quidditchBall:1b,specialBall:1b}}}

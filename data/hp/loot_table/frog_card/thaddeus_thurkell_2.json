@@ -1,0 +1,62 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:paper",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "entity": "this",
+                            "name": {
+                                "text": "Thaddeus Thurkell 2",
+                                "italic": false
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "entity": "this",
+                            "lore": [
+                                {
+                                    "text": "1632-1692",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "Famous for producing seven Squib",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "sons and turning them all",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "into hedgehogs in disgust.",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "#14 Famous Wizards Cards",
+                                    "italic": false,
+                                    "color": "#FFFFFF"
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_custom_model_data",
+                            "value": 10004
+                        },
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": {
+                                "WizardCard": "1b",
+                                "nameInternal": "1b"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

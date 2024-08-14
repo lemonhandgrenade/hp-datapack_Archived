@@ -1,0 +1,1 @@
+give @s minecraft:chain_command_block[minecraft:custom_model_data=650,minecraft:lore=['[{"translate":"item.hp.obtained","italic":false},{"translate":"item.hp.crocodile_heart.from","italic":false}]'],minecraft:custom_name='{"translate":"item.hp.crocodile_heart","color":"#A80303","italic":false}',minecraft:custom_data={Ingredient:1b,PotionID:650,Weight:1500}] 1

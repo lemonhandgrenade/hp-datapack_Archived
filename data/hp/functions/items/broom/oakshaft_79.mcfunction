@@ -1,1 +1,0 @@
-give @s stick{display:{Name:'{"translate":"item.hp.oakshaft_79","italic":false}',Lore:['{"translate":"item.hp.elias_grimstone","color":"#faf0be","bold":true,"italic":false}','{"translate":"item.hp.oakshaft_79","color":"#482912","italic":false}','{"translate":"item.hp.broom_antique","italic":false}']},CustomModelData:6026,Broom:1b,broomID:26}

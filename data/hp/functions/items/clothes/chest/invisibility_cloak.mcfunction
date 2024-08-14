@@ -1,1 +1,0 @@
-give @s elytra{display:{Name:'{"translate":"item.hp.invisibility_cloak","color":"#FFFFFC","italic":false}',Lore:['{"translate":"item.hp.invisibility_cloak.lore","italic":false}','{"translate":"item.hp.invisibility_cloak.use"}']},RepairCost:-1,Unbreakable:1b,Damage:432,CustomModelData:2b,InvisibilityCloak:1b,Enchantments:[{}]} 1

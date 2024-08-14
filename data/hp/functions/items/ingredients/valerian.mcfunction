@@ -1,1 +1,0 @@
-give @s chain_command_block{display:{Name:'{"translate":"item.hp.valerian","color":"#DB1C9D","italic":false}',Lore:['{"translate":"item.hp.potion_use","italic":false}']},Weight:10,Ingredient:1b,CustomModelData:2650,PotionID:2650,Color:16169186} 1

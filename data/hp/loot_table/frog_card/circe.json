@@ -1,0 +1,62 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:paper",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "entity": "this",
+                            "name": {
+                                "text": "Circe",
+                                "italic": false
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "entity": "this",
+                            "lore": [
+                                {
+                                    "text": "Ancient Greek",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "Witch who lived on",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "Island of Aeaea. Expert at",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "turning lost sailors into pigs.",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "#22 Silver",
+                                    "italic": false,
+                                    "color": "#878E9F"
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_custom_model_data",
+                            "value": 10001
+                        },
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": {
+                                "WizardCard": "1b",
+                                "nameInternal": "1b"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

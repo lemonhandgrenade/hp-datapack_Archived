@@ -1,1 +1,0 @@
-give @s leather_leggings{display:{Name:'{"translate":"item.hp.slytherin_lower_robes","italic":false}',color:8453952},CustomModelData:1} 1

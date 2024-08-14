@@ -1,0 +1,1 @@
+give @s minecraft:chain_command_block[minecraft:custom_model_data=1680,minecraft:lore=['{"translate":"item.hp.potion_use","italic":false}'],minecraft:custom_name='{"translate":"item.hp.moonstone","color":"#EFEFD8","italic":false}',minecraft:custom_data={Color:15132608,Ingredient:1b,MortarPestle:1b,PotionID:1680,Weight:40}] 1

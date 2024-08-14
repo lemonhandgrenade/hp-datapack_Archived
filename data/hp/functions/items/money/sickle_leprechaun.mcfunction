@@ -1,1 +1,0 @@
-give @s raw_iron{CustomModelData:1,Weight:66,Sickle:1b,Money:1b,Real:0b,display:{Name:'{"italic":false,"color":"#8c8c8c","translate":"item.hp.sickle"}'}} 1

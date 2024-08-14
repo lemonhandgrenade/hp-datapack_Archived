@@ -1,1 +1,0 @@
-give @s raw_gold{CustomModelData:1,Weight:81,Galleon:1b,Money:1b,Real:0b,display:{Name:'{"italic":false,"color":"#BD7C2A","translate":"item.hp.galleon"}'}} 1

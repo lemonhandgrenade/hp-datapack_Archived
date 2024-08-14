@@ -1,0 +1,1 @@
+give @s minecraft:wooden_sword[minecraft:custom_model_data=1,minecraft:lore=['{"translate":"item.hp.beaters_bat.lore","italic":false}'],minecraft:attribute_modifiers={modifiers:[],show_in_tooltip:0b},minecraft:enchantments={levels:{"minecraft:knockback":3},show_in_tooltip:0b},minecraft:custom_name='{"translate":"item.hp.beaters_bat","color":"#693C2F","italic":false}'] 1

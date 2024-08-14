@@ -1,0 +1,4 @@
+summon armor_stand ~ ~ ~ {Marker:1b,DisabledSlots:4144959,Invisible:1b,CustomNameVisible:0b,Team:"noCollision",Silent:1b,Invulnerable:1b,Small:1b,Tags:["animagusCreature","new"],Pose:{Head:[180f,180f,0f]},ArmorItems:[{},{},{},{id:"minecraft:player_head",count:1,tag:{SkullOwner:{Id:[I;128366314,-1394261050,-1399991999,-1702928774],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWNjYWMwNjM3OWU4YmM0Y2ZmMzgwMWZjOTM1MGZlYzZiNWZlYWQ2Mzg1Y2QzMzk1ZTYxZDQxNGMwMjczZWIzZiJ9fX0="}]}}}}],CustomName:'{"translate":"animagus.hp.rat_gray"}'}
+scoreboard players operation @e[type=armor_stand,tag=animagusCreature,tag=new] UID = @s UID
+scoreboard players operation @e[type=armor_stand,tag=animagusCreature,tag=new] animagusID = @s animagusID
+tag @e[type=armor_stand,tag=animagusCreature,tag=new] remove new

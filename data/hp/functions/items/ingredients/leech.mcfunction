@@ -1,1 +1,0 @@
-give @s chain_command_block{display:{Name:'{"translate":"item.hp.leech","color":"#46354B","italic":false}',Lore:['{"translate":"item.hp.potion_use","italic":false}']},Weight:80,Ingredient:1b,CustomModelData:1450,PotionID:1450,Color:4797251} 1

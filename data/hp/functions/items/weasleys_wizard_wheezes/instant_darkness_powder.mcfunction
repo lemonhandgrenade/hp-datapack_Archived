@@ -1,1 +1,0 @@
-give @s snowball{display:{Name:'{"translate":"item.hp.instant_darkness_powder","color":"#110044","italic":false}',Lore:['{"translate":"item.hp.instant_darkness_powder.lore","italic":false}','{"translate":"item.hp.instant_darkness_powder.use"}']},CustomModelData:11,instantDarknessPowder:1b,specialBall:1b} 1

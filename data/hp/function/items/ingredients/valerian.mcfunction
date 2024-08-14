@@ -1,0 +1,1 @@
+give @s minecraft:chain_command_block[minecraft:custom_model_data=2650,minecraft:lore=['{"translate":"item.hp.potion_use","italic":false}'],minecraft:custom_name='{"translate":"item.hp.valerian","color":"#DB1C9D","italic":false}',minecraft:custom_data={Color:16169186,Ingredient:1b,PotionID:2650,Weight:10}] 1

@@ -1,3 +1,0 @@
-execute as @e[tag=spellHit,predicate=hp:player/no_helmet] at @s run particle dust_color_transition 0.8 0.2 0.3 1 0.6 0 0.8 ~ ~2.1 ~ 0.3 0.2 0.3 0 100
-execute as @e[tag=spellHit,predicate=hp:player/no_helmet] run item replace entity @s armor.head with repeating_command_block{display:{Name:'{"text":"Antlers","color":"white","italic":false}'},HideFlags:1,Natural:1b,CustomModelData:1,Enchantments:[{id:"minecraft:binding_curse",lvl:1s}]} 1
-execute if entity @s[type=area_effect_cloud] run function hp:spells/_base/private/end

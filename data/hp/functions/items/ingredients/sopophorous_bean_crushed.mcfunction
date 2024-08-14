@@ -1,1 +1,0 @@
-give @s chain_command_block{display:{Name:'{"translate":"item.hp.sopophorous_bean_crushed","color":"#352920","italic":false}',Lore:['[{"translate":"item.hp.obtained","italic":false},{"translate":"item.hp.sopophorous_bean.from","italic":false}]']},Weight:30,Ingredient:1b,CustomModelData:2351,PotionID:2351,Color:3483936} 1

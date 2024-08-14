@@ -1,1 +1,0 @@
-give @s chain_command_block{display:{Name:'{"translate":"item.hp.bezoar","color":"#B27C5C","italic":false}',Lore:['[{"translate":"item.hp.obtained","italic":false},{"translate":"item.hp.bezoar.from","italic":false}]']},Weight:588,Ingredient:1b,MortarPestle:1b,CustomModelData:280,PotionID:280,Color:8805175} 1

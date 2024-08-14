@@ -1,0 +1,1 @@
+give @s minecraft:raw_copper[minecraft:custom_model_data=1,minecraft:custom_name='{"italic":false,"color":"#855137","translate":"item.hp.knut"}',minecraft:custom_data={Knut:1b,Money:1b,Real:0b,Weight:57}] 1

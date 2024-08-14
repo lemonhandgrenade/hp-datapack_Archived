@@ -1,0 +1,1 @@
+give @s minecraft:warped_fungus_on_a_stick[minecraft:custom_model_data=20,minecraft:lore=['{"translate":"item.hp.deluminator.lore","italic":false}'],minecraft:unbreakable={show_in_tooltip:0b},minecraft:custom_name='{"translate":"item.hp.deluminator","italic":false}',minecraft:custom_data={Lights:0,deluminator:1b}] 1

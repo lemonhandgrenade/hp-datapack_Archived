@@ -1,0 +1,1 @@
+execute positioned ~ ~1.7 ~ run particle minecraft:dust_color_transition{from_color:[1.,1.,1.],scale:.6,to_color:[.1,.4,1.]} ^-0.35 ^.3 ^.5 0.01 0.01 0.01 0 20

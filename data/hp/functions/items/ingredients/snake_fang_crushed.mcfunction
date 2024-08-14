@@ -1,1 +1,0 @@
-give @s chain_command_block{display:{Name:'{"translate":"item.hp.snake_fangs_crushed","color":"#E9E8D3","italic":false}',Lore:['[{"translate":"item.hp.obtained","italic":false},{"translate":"item.hp.snake_fangs.from","italic":false}]']},Weight:80,Ingredient:1b,MortarPestle:1b,CustomModelData:2321,PotionID:2321,Color:15132608} 1

@@ -1,0 +1,25 @@
+[
+    {
+        "function": "minecraft:set_components",
+        "components": {
+            "minecraft:custom_data": {
+                "Portkey": 1,
+                "PortkeyActive": 0
+            }
+        }
+    },
+    {
+        "function": "minecraft:copy_custom_data",
+        "source": {
+            "type": "minecraft:storage",
+            "source": "hp:portkey"
+        },
+        "ops": [
+            {
+                "source": "position",
+                "target": "PortkeyPos",
+                "op": "replace"
+            }
+        ]
+    }
+]

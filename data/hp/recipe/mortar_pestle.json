@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "i",
+    "b"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:stone_button"
+    },
+    "b": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "result": {
+    "id": "minecraft:knowledge_book"
+  }
+}

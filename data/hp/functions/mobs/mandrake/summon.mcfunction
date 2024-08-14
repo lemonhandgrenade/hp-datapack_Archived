@@ -1,4 +1,0 @@
-execute align xyz positioned ~0.5 ~ ~0.5 unless entity @e[type=armor_stand,distance=..0.7,limit=1] run function hp:mobs/mandrake/summon_pot
-execute align xyz positioned ~0.5 ~ ~0.5 run summon armor_stand ~ ~ ~ {Invisible:1b,CustomNameVisible:0b,NoGravity:1b,Silent:1b,Small:1b,Tags:["specialMob","mandrake","new"],DisabledSlots:55,ArmorItems:[{},{},{id:"minecraft:oak_button",Count:1b,tag:{KILL:1b}},{id:"minecraft:heart_of_the_sea",Count:1b,tag:{CustomModelData:671}}],CustomName:'{"text":"Mandrake","italic":false}'}
-scoreboard players set @e[type=armor_stand,tag=mandrake,tag=new,limit=1] anim 1
-tag @e[type=armor_stand,tag=mandrake,tag=new,limit=1] remove new

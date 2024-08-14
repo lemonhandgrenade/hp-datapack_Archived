@@ -1,0 +1,1 @@
+give @s minecraft:chain_command_block[minecraft:custom_model_data=780,minecraft:lore=['[{"translate":"item.hp.obtained","italic":false},{"translate":"item.hp.dragon_liver.from","italic":false}]'],minecraft:custom_name='{"translate":"item.hp.dragon_liver","color":"#A80303","italic":false}',minecraft:custom_data={Ingredient:1b,PotionID:780,Weight:1500}] 1

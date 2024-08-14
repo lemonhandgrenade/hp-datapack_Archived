@@ -1,1 +1,0 @@
-give @s spyglass{display:{Name:'{"translate":"item.hp.golden_telescope","color":"#BD7C2A","italic":false}'},Weight:4525,CustomModelData:1} 1

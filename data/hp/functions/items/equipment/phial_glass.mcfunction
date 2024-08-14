@@ -1,1 +1,0 @@
-give @s glass_bottle{display:{Name:'{"translate":"item.hp.phial","italic":false}',Lore:['[{"translate":"item.hp.phial.type","italic":false},{"translate":"item.hp.phial.glass","color":"white","italic":false}]','{"translate":"item.hp.phial.use","italic":false}']},Ingredient:1b,Weight:120,CustomModelData:999} 1

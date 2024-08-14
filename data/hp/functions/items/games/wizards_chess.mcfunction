@@ -1,1 +1,0 @@
-give @s item_frame{display:{Name:'{"translate":"item.hp.wizards_chess_set","italic":false}'},CustomModelData:1,chess.chessboard:1b,EntityTag:{Fixed:1b,Silent:1b,Invisible:1b,Tags:["chessboard","new"],Item:{id:"minecraft:item_frame",Count:1b,tag:{chessboard:1b,CustomModelData:1}}}} 1

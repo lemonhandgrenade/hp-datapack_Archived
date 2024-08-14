@@ -1,0 +1,74 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:paper",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "entity": "this",
+                            "name": {
+                                "text": "Gregory the Smarmy",
+                                "italic": false
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "entity": "this",
+                            "lore": [
+                                {
+                                    "text": "Medieval, dates unknown",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "Famous originator of Gregory's Unctuous Unction",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "potion to persuade the drinker that the giver",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "is their very best friend.",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "Alleged to have wormed his way into",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "King Richard's confidence and",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "thus made his fortune.",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "#59 Silver",
+                                    "italic": false,
+                                    "color": "#878E9F"
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_custom_model_data",
+                            "value": 10001
+                        },
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": {
+                                "WizardCard": "1b",
+                                "nameInternal": "1b"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+give @s minecraft:chain_command_block[minecraft:custom_model_data=1960,minecraft:lore=['[{"translate":"item.hp.obtained","italic":false},{"translate":"item.hp.porcupine_quill.from","italic":false}]'],minecraft:custom_name='{"translate":"item.hp.porcupine_quill","color":"#AEAEAE","italic":false}',minecraft:custom_data={Ingredient:1b,PotionID:1960,Weight:10}] 1

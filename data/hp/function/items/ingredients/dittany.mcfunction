@@ -1,0 +1,1 @@
+give @s minecraft:chain_command_block[minecraft:custom_model_data=710,minecraft:lore=['{"translate":"item.hp.potion_use","italic":false}'],minecraft:custom_name='{"translate":"item.hp.dittany","color":"#5A792A","italic":false}',minecraft:custom_data={Color:6785327,Ingredient:1b,PotionID:710,Weight:10}] 1

@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:repeating_command_block",
+      "components": {"minecraft:custom_model_data": 1004}
+    },
+    "title": {"translate":"advancements.hp.fourth_year.title"},
+    "description": {"translate":"advancements.hp.fourth_year_ravenclaw.description"},
+    "frame": "goal",
+		"announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "hp:pack/houses/year/ravenclaw/third_year",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "nbt": "{Tags:[\"ravenclaw\",\"fourthYear\"]}"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,1 +1,0 @@
-give @s chain_command_block{display:{Name:'{"translate":"item.hp.bicorn_horn_crushed","color":"#003553","italic":false}',Lore:['[{"translate":"item.hp.obtained","italic":false},{"translate":"item.hp.bicorn_horn.from","italic":false}]']},Weight:180,Ingredient:1b,MortarPestle:1b,CustomModelData:291,PotionID:291,Color:861997} 1

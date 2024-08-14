@@ -1,0 +1,67 @@
+[
+    {
+        "function": "minecraft:set_components",
+    	"components": {
+			"minecraft:custom_data": {"Set":"1b"}
+		}
+    },
+    {
+        "function": "minecraft:set_lore",
+        "entity": "this",
+        "lore": [
+            [
+                {
+                    "translate": "wand.hp.owner",
+                    "color": "dark_purple",
+                    "italic": false
+                },
+                {
+                    "selector": "@s",
+                    "color": "light_purple",
+                    "italic": false
+                }
+            ]
+        ],
+        "mode": "replace_all"
+    },
+    {
+        "function": "minecraft:set_lore",
+        "entity": "this",
+        "lore": [
+            [
+                {
+                    "translate": "wood.hp.wood",
+                    "color": "dark_purple",
+                    "italic": false
+                },
+                {
+                    "nbt": "SelectedItem.components.minecraft:custom_data.WoodName",
+                    "entity": "@s",
+                    "interpret": true,
+                    "color": "light_purple"
+                }
+            ]
+        ],
+        "mode": "append"
+    },
+    {
+        "function": "minecraft:set_lore",
+        "entity": "this",
+        "lore": [
+            [
+                {
+                    "translate": "core.hp.core",
+                    "color": "dark_purple",
+                    "italic": false
+                },
+                {
+                    "nbt": "SelectedItem.components.minecraft:custom_data.CoreName",
+                    "entity": "@s",
+                    "interpret": true,
+                    "color": "light_purple"
+                }
+            ]
+        ],
+        "mode": "append"
+    }
+]

@@ -1,1 +1,0 @@
-give @s repeating_command_block{display:{Name:'{"translate":"item.hp.sorting_hat","color":"#362B24","italic":false}',Lore:['{"translate":"item.hp.sorting_hat.lore_1","italic":false}','{"translate":"item.hp.sorting_hat.lore_2","italic":false}','{"translate":"item.hp.sorting_hat.use"}']},HideFlags:33,CustomModelData:1000,SortingHat:1b} 1

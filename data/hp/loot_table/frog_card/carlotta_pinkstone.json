@@ -1,0 +1,78 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:paper",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "entity": "this",
+                            "name": {
+                                "text": "Carlotta Pinkstone",
+                                "italic": false
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "entity": "this",
+                            "lore": [
+                                {
+                                    "text": "1922-present",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "Famous campaigner for lifting the",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "International Confederation of Wizard’s",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "Statute of Secrecy and telling",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "Muggle folks that wizards still exist.",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "Ms. Pinkstone has been imprisoned several",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "times for her blatant and deliberate",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "use of magic in public places.",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "#40 Gold",
+                                    "italic": false,
+                                    "color": "#FFD700"
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_custom_model_data",
+                            "value": 10002
+                        },
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": {
+                                "WizardCard": "1b",
+                                "nameInternal": "1b"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

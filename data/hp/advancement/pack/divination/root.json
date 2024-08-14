@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"translate":"advancements.hp.divination.title"},
+		"description": {"translate":"advancements.hp.divination.description"},
+		"icon": {
+			"id": "minecraft:armor_stand",
+			"components": {"minecraft:custom_model_data": 900}
+		},
+		"frame": "task",
+		"background": "minecraft:textures/block/sculk_sensor_bottom.png",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"criteria": {
+		"trigger": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

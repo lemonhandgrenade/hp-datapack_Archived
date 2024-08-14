@@ -1,1 +1,0 @@
-{"pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"minecraft:raw_iron","functions":[{"function":"minecraft:set_nbt","tag":"{CustomModelData:1,Real:1b,Money:1b,Sickle:1b,Weight:66}"},{"function":"minecraft:set_name","name":{"translate":"item.hp.sickle","color":"#8C8C8C","italic":"false"}}]}]}]}

@@ -1,1 +1,0 @@
-give @s bundle{display:{Name:'{"translate":"item.hp.slytherin_trunk","color":"#683e29"}',Lore:['{"translate":"item.hp.slytherin_trunk.lore","italic":false}']},CustomModelData:30,Trunk:1b}

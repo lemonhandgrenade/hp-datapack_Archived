@@ -1,1 +1,0 @@
-give @s chain_command_block{display:{Name:'{"translate":"item.hp.porcupine_quill","color":"#AEAEAE","italic":false}',Lore:['[{"translate":"item.hp.obtained","italic":false},{"translate":"item.hp.porcupine_quill.from","italic":false}]']},Weight:10,Ingredient:1b,CustomModelData:1960,PotionID:1960} 1

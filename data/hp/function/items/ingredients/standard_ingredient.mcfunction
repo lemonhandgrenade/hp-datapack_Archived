@@ -1,0 +1,1 @@
+give @s minecraft:chain_command_block[minecraft:custom_model_data=2440,minecraft:lore=['{"translate":"item.hp.standard_ingredient.lore","italic":false}'],minecraft:custom_name='{"translate":"item.hp.standard_ingredient","color":"#394000","italic":false}',minecraft:custom_data={Color:2700800,Ingredient:1b,MortarPestle:1b,PotionID:2440}] 1

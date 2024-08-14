@@ -1,0 +1,2 @@
+item replace entity @e[tag=spellHit,predicate=hp:player/no_helmet] armor.head with oxeye_daisy[enchantments={levels:{"minecraft:binding_curse":1}}] 1
+execute if entity @s[type=area_effect_cloud] run function hp:spells/_base/private/end

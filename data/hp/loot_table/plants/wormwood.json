@@ -1,0 +1,46 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:chain_command_block"
+                }
+            ],
+            "functions": [
+                {
+                    "function": "minecraft:set_lore",
+                    "lore": [
+                        {
+                            "translate": "item.hp.wormwood.lore",
+                            "italic": false
+                        }
+                    ],
+                    "mode": "replace_all"
+                },
+                {
+                    "function": "minecraft:set_custom_model_data",
+                    "value": 2870
+                },
+                {
+                    "function": "minecraft:set_custom_data",
+                    "tag": {
+                        "PotionID": 2870,
+                        "Ingredient": 1,
+                        "Weight": 10,
+                        "Color": 8302944
+                    }
+                },
+                {
+                    "function": "minecraft:set_name",
+                    "name": {
+                        "translate": "item.hp.wormwood",
+                        "color": "#4A6838",
+                        "italic": false
+                    }
+                }
+            ]
+        }
+    ]
+}

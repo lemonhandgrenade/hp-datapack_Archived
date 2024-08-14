@@ -1,0 +1,2 @@
+execute if entity @s[nbt={Item:{components:{"minecraft:custom_data":{PortkeyActive:0b}}}}] run function hp:spells/_entities/portkey/setup
+execute if entity @s[nbt={Item:{components:{"minecraft:custom_data":{PortkeyActive:1b}}}}] at @s if entity @p[distance=..1.75] run function hp:spells/_entities/portkey/teleport

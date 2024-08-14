@@ -1,0 +1,20 @@
+{
+    "display": {
+        "title": {"translate":"advancements.hp.potion_maker.title"},
+        "description": {"translate":"advancements.hp.potion_maker.description"},
+        "icon": {
+            "id": "minecraft:armor_stand",
+            "components": {
+                "minecraft:custom_model_data": 21
+            }
+        },
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "parent": "hp:pack/potions/root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

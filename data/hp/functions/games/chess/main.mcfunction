@@ -1,2 +1,0 @@
-execute unless entity @e[type=item_frame,tag=chessboard,distance=..0.1,nbt={Item:{Count:1b,tag:{chessboard:1b}}}] run function hp:games/chess/remove
-execute if block ~ ~-1 ~ air run function hp:games/chess/remove

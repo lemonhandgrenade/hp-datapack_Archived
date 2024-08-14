@@ -1,0 +1,2 @@
+item replace entity @a[tag=spellHit,predicate=hp:player/no_helmet] armor.head with repeating_command_block[custom_name='{"color":"white","italic":false,"text":"Antennae"}',custom_model_data=2,custom_data={Natural:1b},enchantments={levels:{"minecraft:binding_curse":1}},block_entity_data={id:"minecraft:repeating_command_block",CustomName:'{"color":"white","italic":false,"text":"Antennae"}'}] 1
+execute if entity @s[type=area_effect_cloud] run function hp:spells/_base/private/end

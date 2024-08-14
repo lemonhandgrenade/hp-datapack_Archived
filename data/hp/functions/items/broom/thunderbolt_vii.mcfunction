@@ -1,1 +1,0 @@
-give @s stick{display:{Name:'{"translate":"item.hp.thunderbolt_vii","italic":false}',Lore:['{"translate":"item.hp.thunderbolt","color":"#ffebb4","bold":true,"italic":false}','{"translate":"item.hp.thunderbolt_vii","color":"gold","italic":false}','{"translate":"item.hp.thunderbolt_vii.lore","italic":false}']},CustomModelData:6032,Broom:1b,broomID:32}

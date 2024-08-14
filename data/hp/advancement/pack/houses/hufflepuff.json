@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"translate":"advancements.hp.hufflepuff.title"},
+		"description": {"translate":"advancements.hp.hufflepuff.description"},
+		"icon": {
+			"id": "minecraft:repeating_command_block",
+			"components": {"minecraft:custom_model_data": 1003}
+		},
+		"frame": "challenge",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"parent": "hp:pack/sorted",
+	"criteria": {
+		"trigger": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

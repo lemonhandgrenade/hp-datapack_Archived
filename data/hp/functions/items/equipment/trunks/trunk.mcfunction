@@ -1,1 +1,0 @@
-give @s bundle{display:{Name:'{"translate":"item.hp.trunk","color":"#683e29"}',Lore:['{"translate":"item.hp.trunk.lore","italic":false}']},CustomModelData:10,Trunk:1b}

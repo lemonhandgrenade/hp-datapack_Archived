@@ -1,0 +1,1 @@
+give @s minecraft:chain_command_block[minecraft:custom_model_data=2632,minecraft:lore=['[{"translate":"item.hp.obtained","italic":false},{"translate":"item.hp.unicorn_horn.from","italic":false}]'],minecraft:custom_name='{"translate":"item.hp.unicorn_horn_powdered","color":"#E6FFFC","italic":false}',minecraft:custom_data={Color:14280678,Ingredient:1b,PotionID:2632,Weight:118}] 1

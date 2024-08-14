@@ -1,0 +1,66 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:paper",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "entity": "this",
+                            "name": {
+                                "text": "Roderick Plumpton",
+                                "italic": false
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "entity": "this",
+                            "lore": [
+                                {
+                                    "text": "1889-1987",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "Seeker for the English Quidditch Team.",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "Holds British record for fastest",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "capture of Snitch during game:",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "three and a half seconds.",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "#83 Bronze",
+                                    "italic": false,
+                                    "color": "#CD7F32"
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_custom_model_data",
+                            "value": 10003
+                        },
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": {
+                                "WizardCard": "1b",
+                                "nameInternal": "1b"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

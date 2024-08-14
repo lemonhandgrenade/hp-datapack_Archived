@@ -1,1 +1,0 @@
-give @s stick{display:{Name:'{"translate":"item.hp.wand","italic":false}'},CustomModelData:2402,Wood:24,WoodName:'{"translate":"wood.hp.hornbeam"}',Core:2,CoreName:'{"translate":"core.hp.basilisk_horn"}',Wand:1b,Set:0b} 1

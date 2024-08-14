@@ -1,0 +1,1 @@
+give @s minecraft:chain_command_block[minecraft:custom_model_data=2441,minecraft:lore=['{"translate":"item.hp.standard_ingredient.lore","italic":false}'],minecraft:custom_name='{"translate":"item.hp.standard_ingredient_crushed","color":"#394000","italic":false}',minecraft:custom_data={Color:2700800,Ingredient:1b,PotionID:2441}] 1

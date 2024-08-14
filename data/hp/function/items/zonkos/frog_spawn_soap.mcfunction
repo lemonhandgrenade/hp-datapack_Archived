@@ -1,0 +1,1 @@
+give @s minecraft:command_block[minecraft:custom_model_data=10,minecraft:lore=['{"translate":"item.hp.frog_spawn_soap.lore","italic":false}'],minecraft:custom_name='{"translate":"item.hp.frog_spawn_soap","color":"#70905b","italic":false}',minecraft:custom_data={frogSpawnSoap:1b,specialEntity:1b}] 1

@@ -1,1 +1,0 @@
-particle dust_color_transition 0.67 0.32 0.95 1 0.34 0.12 0.54 ~ ~ ~ 0 0 0 0 1

@@ -1,0 +1,2 @@
+tellraw @a[distance=..15,tag=!cantHear] ["","<",{"selector":"@s"},{"text":"> Accio "},{"nbt":"Item.components.minecraft:custom_data.title","entity":"@e[tag=spellHit,type=item,sort=nearest,limit=1]"}]
+scoreboard players set #temp values 1

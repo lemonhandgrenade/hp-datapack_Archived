@@ -1,1 +1,0 @@
-give @s chain_command_block{display:{Name:'{"translate":"item.hp.snake_fangs_powdered","color":"#E9E8D3","italic":false}',Lore:['[{"translate":"item.hp.obtained","italic":false},{"translate":"item.hp.snake_fangs.from","italic":false}]']},Weight:10,Ingredient:1b,CustomModelData:2322,PotionID:2322,Color:15132608} 1

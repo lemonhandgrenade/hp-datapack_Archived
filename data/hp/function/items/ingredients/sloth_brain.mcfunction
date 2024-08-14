@@ -1,0 +1,1 @@
+give @s minecraft:chain_command_block[minecraft:custom_model_data=2310,minecraft:lore=['[{"translate":"item.hp.obtained","italic":false},{"translate":"item.hp.sloth_brain.from","italic":false}]'],minecraft:custom_name='{"translate":"item.hp.sloth_brain","color":"#946b5D","italic":false}',minecraft:custom_data={Ingredient:1b,PotionID:2310,Weight:48}] 1

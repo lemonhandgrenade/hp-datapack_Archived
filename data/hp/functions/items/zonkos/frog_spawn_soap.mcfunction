@@ -1,1 +1,0 @@
-give @s command_block{display:{Name:'{"translate":"item.hp.frog_spawn_soap","color":"#70905b","italic":false}',Lore:['{"translate":"item.hp.frog_spawn_soap.lore","italic":false}']},CustomModelData:10,frogSpawnSoap:1b,specialEntity:1b} 1

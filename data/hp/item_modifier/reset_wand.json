@@ -1,0 +1,6 @@
+[
+  {
+    "function": "minecraft:set_custom_data",
+    "tag": {"Set": "0b"}
+  }
+]

@@ -1,0 +1,28 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "hp:items/thestral_hair"
+                }
+            ],
+            "functions": [
+                {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                },
+                {
+                    "function": "minecraft:set_count",
+                    "count": {
+                        "type": "minecraft:binomial",
+                        "n": 2,
+                        "p": 0.5
+                    },
+                    "add": true
+                }
+            ]
+        }
+    ]
+}

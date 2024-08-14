@@ -1,0 +1,2 @@
+tag @s remove cut
+effect give @s minecraft:regeneration 1 2 true

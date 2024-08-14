@@ -1,0 +1,1 @@
+particle dust_color_transition{from_color:[.8,.5,0.],scale:1,to_color:[.8,.6,0.]} ~ ~ ~ 0 0 0 0 1

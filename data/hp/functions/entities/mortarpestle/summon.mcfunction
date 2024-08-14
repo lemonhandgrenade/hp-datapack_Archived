@@ -1,3 +1,0 @@
-summon armor_stand ~ ~ ~ {DisabledSlots:47,Invisible:1b,Small:1b,Tags:["specialEntity","mortarpestle","mortarpestleMain","helmetNeeded"],ArmorItems:[{},{},{},{id:"minecraft:armor_stand",Count:1b,tag:{display:{Name:'{"translate":"item.hp.mortar_and_pestle","color":"#565051","italic":false}',Lore:['{"translate":"item.hp.mortar_and_pestle.lore","italic":false}']},CustomModelData:20,EntityTag:{Small:1b,Invisible:1b,Tags:["new","summon","mortarpestle","specialEntity"]}}}]}
-
-kill @s

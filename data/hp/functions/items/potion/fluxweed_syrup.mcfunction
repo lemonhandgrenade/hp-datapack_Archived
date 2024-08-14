@@ -1,1 +1,0 @@
-tellraw @s ["",{"translate":"item.hp.fluxweed_syrup.error","color":"dark_red"}]

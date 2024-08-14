@@ -1,0 +1,25 @@
+{
+    "pools": [
+        {
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "hp:plants/wormwood"
+                }
+            ],
+            "rolls": 1
+        },
+        {
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "hp:items/seeds/wormwood"
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 4
+            }
+        }
+    ]
+}

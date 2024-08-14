@@ -1,1 +1,0 @@
-{"pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"minecraft:raw_gold","functions":[{"function":"minecraft:set_nbt","tag":"{CustomModelData:1,Real:1b,Money:1b,Galleon:1b,Weight:81}"},{"function":"minecraft:set_name","name":{"translate":"item.hp.galleon","color":"#bd7c2a","italic":"false"}}]}]}]}

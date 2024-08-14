@@ -1,1 +1,0 @@
-give @s stick{display:{Name:'{"translate":"item.hp.moontrimmer","italic":false}',Lore:['{"translate":"item.hp.gladys_boothby","color":"#b27fa7","bold":true,"italic":false}','{"translate":"item.hp.moontrimmer","color":"#7c4a74","italic": false}','{"translate":"item.hp.moontrimmer.lore","italic":false}']},CustomModelData:6019,Broom:1b,broomID:19} 1

@@ -1,0 +1,1 @@
+give @s minecraft:snowball[minecraft:custom_model_data=2,minecraft:lore=['{"translate":"item.hp.quaffle.lore","italic":false}'],minecraft:custom_name='{"translate":"item.hp.quaffle","color":"red","italic":false}',minecraft:custom_data={quidditchBall:1b,specialBall:1b}] 1

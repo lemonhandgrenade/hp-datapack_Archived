@@ -1,1 +1,0 @@
-give @s chain_command_block{display:{Name:'{"translate":"item.hp.bicorn_horn_powdered","color":"#003553","italic":false}',Lore:['[{"translate":"item.hp.obtained","italic":false},{"translate":"item.hp.bicorn_horn.from","italic":false}]']},Weight:180,Ingredient:1b,CustomModelData:292,PotionID:292,Color:861997} 1

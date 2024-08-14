@@ -1,0 +1,58 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:paper",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "entity": "this",
+                            "name": {
+                                "text": "Gwenog Jones 2",
+                                "italic": false
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "entity": "this",
+                            "lore": [
+                                {
+                                    "text": "1968-present",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "Captain and Beater of the all-female",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "national Quidditch team, the Holyhead Harpies.",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "#2 Quidditch Cards",
+                                    "italic": false,
+                                    "color": "#FFFFFF"
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_custom_model_data",
+                            "value": 10004
+                        },
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": {
+                                "WizardCard": "1b",
+                                "nameInternal": "1b"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

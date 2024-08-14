@@ -1,0 +1,1 @@
+give @s minecraft:chain_command_block[minecraft:custom_model_data=2180,minecraft:lore=['[{"translate":"item.hp.obtained","italic":false},{"translate":"item.hp.salamander_blood.from","italic":false}]'],minecraft:custom_name='{"translate":"item.hp.salamander_blood","color":"#A80303","italic":false}',minecraft:custom_data={Ingredient:1b,PotionID:2180,Weight:150}] 1

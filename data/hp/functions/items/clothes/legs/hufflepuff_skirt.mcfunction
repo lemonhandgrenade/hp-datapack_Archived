@@ -1,1 +1,0 @@
-give @s leather_leggings{display:{Name:'{"translate":"item.hp.hufflepuff_skirt","italic":false}',color:16770366},CustomModelData:2} 1

@@ -1,6 +1,0 @@
-execute store result score #temp values run data get entity @s ArmorItems[3].tag.CustomModelData
-summon armor_stand ~ ~ ~ {DisabledSlots:65837,Invisible:1b,Small:1b,Tags:["specialEntity","crystalBall","crystalBallMain","helmetNeeded","new"],ArmorItems:[{id:"minecraft:oak_button",Count:1b,tag:{KILL:1b}},{},{},{id:"minecraft:armor_stand",Count:1b,tag:{display:{Name:'{"translate":"item.hp.crystal_ball","italic":false}',Lore:['{"translate":"item.hp.crystal_ball.lore","italic":false}']},CustomModelData:900,Weight:710,EntityTag:{Small:1b,Invisible:1b,Tags:["new","summon","crystalBall","specialEntity"],Pose:{Head:[0.01f,0f,0f]},ArmorItems:[{},{},{},{id:"minecraft:armor_stand",Count:1b,tag:{CustomModelData:900}}]}}}]}
-execute store result entity @e[type=armor_stand,tag=crystalBall,tag=crystalBallMain,tag=new,limit=1] ArmorItems[3].tag.CustomModelData int 1 run scoreboard players get #temp values
-execute store result entity @e[type=armor_stand,tag=crystalBall,tag=crystalBallMain,tag=new,limit=1] ArmorItems[3].tag.EntityTag.ArmorItems[3].tag.CustomModelData int 1 run scoreboard players get #temp values
-tag @e[type=armor_stand,tag=crystalBall,tag=crystalBallMain,tag=new] remove new
-kill @s

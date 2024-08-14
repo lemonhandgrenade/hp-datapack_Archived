@@ -1,1 +1,0 @@
-give @s chain_command_block{display:{Name:'{"translate":"item.hp.crocodile_heart","color":"#A80303","italic":false}',Lore:['[{"translate":"item.hp.obtained","italic":false},{"translate":"item.hp.crocodile_heart.from","italic":false}]']},CustomModelData:650,PotionID:650,Weight:1500,Ingredient:1b} 1

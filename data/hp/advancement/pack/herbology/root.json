@@ -1,0 +1,19 @@
+{
+	"display": {
+		"title": {"translate":"advancements.hp.herbology.title"},
+		"description": {"translate":"advancements.hp.herbology.description"},
+		"icon": {
+			"id": "minecraft:chain_command_block",
+			"components": {"minecraft:custom_model_data": 2830}
+		},
+		"frame": "task",
+		"background": "minecraft:textures/block/moss_block.png",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"criteria": {
+		"trigger": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

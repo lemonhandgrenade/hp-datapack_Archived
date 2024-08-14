@@ -1,1 +1,0 @@
-give @s chain_command_block{display:{Name:'{"translate":"item.hp.horned_slug","color":"#B27C5C","italic":false}',Lore:['{"translate":"item.hp.potion_use","italic":false}']},Weight:14,Ingredient:1b,MortarPestle:1b,CustomModelData:1280,PotionID:1280,Color:7423020} 1

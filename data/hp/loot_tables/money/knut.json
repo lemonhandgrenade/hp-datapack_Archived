@@ -1,1 +1,0 @@
-{"pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"minecraft:raw_copper","functions":[{"function":"minecraft:set_nbt","tag":"{CustomModelData:1,Real:1b,Money:1b,Knut:1b,Weight:57}"},{"function":"minecraft:set_name","name":{"translate":"item.hp.knut","color":"#855137","italic":"false"}}]}]}]}

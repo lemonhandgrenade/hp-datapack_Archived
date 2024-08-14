@@ -1,0 +1,1 @@
+give @s minecraft:chain_command_block[minecraft:custom_model_data=280,minecraft:lore=['[{"translate":"item.hp.obtained","italic":false},{"translate":"item.hp.bezoar.from","italic":false}]'],minecraft:custom_name='{"translate":"item.hp.bezoar","color":"#B27C5C","italic":false}',minecraft:custom_data={Color:8805175,Ingredient:1b,MortarPestle:1b,PotionID:280,Weight:588}] 1

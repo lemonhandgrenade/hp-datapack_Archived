@@ -1,1 +1,0 @@
-give @s stick{display:{Name:'{"translate":"item.hp.firebolt","italic":false}',Lore:['{"translate":"item.hp.randolph_spudmore","color":"gold","bold":true,"italic":false}','{"translate":"item.hp.firebolt","color":"#653b1f","italic":false}','{"translate":"item.hp.firebolt.lore","italic":false}']},CustomModelData:6017,Broom:1b,broomID:17} 1

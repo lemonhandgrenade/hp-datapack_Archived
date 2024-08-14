@@ -1,0 +1,2 @@
+item replace entity @e[dx=0,tag=spellHit,predicate=hp:player/no_helmet] armor.head with pumpkin[custom_name='{"color":"white","italic":false,"text":"Pumpkin"}',enchantments={levels:{"minecraft:binding_curse":1}}] 1
+execute if entity @s[type=area_effect_cloud] run function hp:spells/_base/private/end

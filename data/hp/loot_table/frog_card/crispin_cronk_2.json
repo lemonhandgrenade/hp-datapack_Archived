@@ -1,0 +1,62 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:paper",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "entity": "this",
+                            "name": {
+                                "text": "Crispin Cronk 2",
+                                "italic": false
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "entity": "this",
+                            "lore": [
+                                {
+                                    "text": "1795-1872",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "Sent to Azkaban for continuing to",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "keep Sphinxes in his back garden",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "despite repeated warnings.",
+                                    "italic": false
+                                },
+                                {
+                                    "text": "#3 Famous Wizards Cards",
+                                    "italic": false,
+                                    "color": "#FFFFFF"
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_custom_model_data",
+                            "value": 10004
+                        },
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": {
+                                "WizardCard": "1b",
+                                "nameInternal": "1b"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

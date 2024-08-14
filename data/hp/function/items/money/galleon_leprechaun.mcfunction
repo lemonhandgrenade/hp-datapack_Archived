@@ -1,0 +1,1 @@
+give @s minecraft:raw_gold[minecraft:custom_model_data=1,minecraft:custom_name='{"italic":false,"color":"#BD7C2A","translate":"item.hp.galleon"}',minecraft:custom_data={Galleon:1b,Money:1b,Real:0b,Weight:81}] 1

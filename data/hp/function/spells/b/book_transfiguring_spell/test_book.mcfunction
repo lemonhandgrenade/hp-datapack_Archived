@@ -1,0 +1,1 @@
+give @s minecraft:written_book[minecraft:written_book_content={author:"a",pages:[{raw:'{"text":"hello"}'}],title:{raw:"a"}},minecraft:custom_data={OtherBook:{count:1,id:"written_book",tag:{author:"b",pages:['{"text":"hello2"}'],title:"b"}}}] 1

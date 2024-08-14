@@ -1,0 +1,1 @@
+give @s minecraft:chain_command_block[minecraft:custom_model_data=1450,minecraft:lore=['{"translate":"item.hp.potion_use","italic":false}'],minecraft:custom_name='{"translate":"item.hp.leech","color":"#46354B","italic":false}',minecraft:custom_data={Color:4797251,Ingredient:1b,PotionID:1450,Weight:80}] 1

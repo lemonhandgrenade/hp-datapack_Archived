@@ -1,1 +1,0 @@
-{"pools":[{"entries":[{"type":"minecraft:loot_table","name":"hp:plants/nettle"}],"rolls":1.0},{"entries":[{"type":"minecraft:loot_table","name":"hp:items/seeds/nettle"}],"rolls":{"min":1.0,"max":4.0}}]}

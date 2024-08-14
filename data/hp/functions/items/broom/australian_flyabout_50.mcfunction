@@ -1,1 +1,0 @@
-give @s stick{display:{Name:'{"translate":"item.hp.australian_flyabout_50","italic":false}',Lore:['{"translate":"item.hp.unknown_maker","color":"light_purple","bold":true,"italic":false}','{"translate":"item.hp.australian_flyabout_50","color":"#e1bf70","italic":false}','{"translate":"item.hp.broom_common","italic":false}']},CustomModelData:6002,Broom:1b,broomID:2}

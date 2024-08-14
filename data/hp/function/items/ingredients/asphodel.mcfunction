@@ -1,0 +1,1 @@
+give @s minecraft:chain_command_block[minecraft:custom_model_data=180,minecraft:lore=['{"translate":"item.hp.potion_use","italic":false}'],minecraft:custom_name='{"translate":"item.hp.asphodel","color":"#EEEEFF","italic":false}',minecraft:custom_data={Color:0,Ingredient:1b,PotionID:180,Weight:10}] 1

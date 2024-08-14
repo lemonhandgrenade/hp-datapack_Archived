@@ -1,0 +1,1 @@
+give @s minecraft:elytra[minecraft:custom_model_data=2b,minecraft:lore=['{"translate":"item.hp.invisibility_cloak.lore","italic":false}','{"translate":"item.hp.invisibility_cloak.use"}'],minecraft:damage=432,minecraft:unbreakable={},minecraft:custom_name='{"translate":"item.hp.invisibility_cloak","color":"#FFFFFC","italic":false}',minecraft:custom_data={InvisibilityCloak:1b}] 1

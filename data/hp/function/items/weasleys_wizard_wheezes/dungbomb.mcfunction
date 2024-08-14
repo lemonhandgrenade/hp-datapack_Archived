@@ -1,0 +1,1 @@
+give @s minecraft:snowball[minecraft:custom_model_data=10,minecraft:lore=['{"translate":"item.hp.dungbomb.lore","italic":false}','{"translate":"item.hp.dungbomb.use"}'],minecraft:custom_name='{"translate":"item.hp.dungbomb","color":"#964B00","italic":false}',minecraft:custom_data={dungbomb:1b,specialBall:1b}] 1

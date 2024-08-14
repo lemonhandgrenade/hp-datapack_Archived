@@ -1,1 +1,0 @@
-give @s warped_fungus_on_a_stick{display:{Name:'{"translate":"item.hp.hand_of_glory","italic":false}',Lore:['{"translate":"item.hp.hand_of_glory.lore","italic":false}','{"translate":"item.hp.hand_of_glory.use"}']},HideFlags:4,RepairCost:-1,Unbreakable:1b,CustomModelData:1,handOfGlory:1b} 1

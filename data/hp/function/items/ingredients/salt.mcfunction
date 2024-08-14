@@ -1,0 +1,1 @@
+give @s minecraft:chain_command_block[minecraft:custom_model_data=2200,minecraft:lore=['{"translate":"item.hp.potion_use","italic":false}'],minecraft:custom_name='{"translate":"item.hp.salt","color":"#EEEEFF","italic":false}',minecraft:custom_data={Ingredient:1b,PotionID:2200,Weight:10}] 1

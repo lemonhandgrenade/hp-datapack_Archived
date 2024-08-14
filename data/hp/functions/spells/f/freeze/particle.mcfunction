@@ -1,1 +1,0 @@
-particle block packed_ice ~ ~ ~ 0.05 0.05 0.05 0 3

@@ -1,1 +1,0 @@
-give @s chain_command_block{display:{Name:'{"translate":"item.hp.flobberworm_mucus","color":"#9DC100","italic":false}',Lore:['[{"translate":"item.hp.obtained","italic":false},{"translate":"item.hp.flobberworm_mucus.from","italic":false}]']},Weight:400,Ingredient:1b,CustomModelData:990,PotionID:990,Color:10338560} 1

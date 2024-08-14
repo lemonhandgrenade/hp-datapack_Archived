@@ -1,0 +1,1 @@
+give @s minecraft:chain_command_block[minecraft:custom_model_data=290,minecraft:lore=['[{"translate":"item.hp.obtained","italic":false},{"translate":"item.hp.bicorn_horn.from","italic":false}]'],minecraft:custom_name='{"translate":"item.hp.bicorn_horn","color":"#003553","italic":false}',minecraft:custom_data={Color:861997,Ingredient:1b,MortarPestle:1b,PotionID:290,Weight:180}] 1

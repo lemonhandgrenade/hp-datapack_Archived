@@ -1,0 +1,1 @@
+{"pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"minecraft:lectern","functions":[{"function":"minecraft:set_name","name":{"text":"Desk","italic":false}},{"function":"minecraft:set_custom_data","tag":{"Desk":1}}]}]}]}

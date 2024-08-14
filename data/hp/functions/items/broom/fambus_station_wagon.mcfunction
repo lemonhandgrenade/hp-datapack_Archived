@@ -1,1 +1,0 @@
-give @s stick{display:{Name:'{"translate":"item.hp.fambus_station_wagon","italic":false}',Lore:['{"translate":"item.hp.nimbus","color":"gray","bold":true,"italic":false}','{"translate":"item.hp.fambus_station_wagon","color":"#964B00","italic":false}','{"translate":"item.hp.broom_family","italic":false}']},CustomModelData:6016,Broom:1b,broomID:16}

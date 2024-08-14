@@ -1,0 +1,1 @@
+execute align xyz positioned ~0.5 ~ ~0.5 run summon armor_stand ~ ~ ~ {Marker:1b,Invisible:1b,NoGravity:1b,Silent:1b,Small:1b,Tags:["mandrakePot","mandrake"],DisabledSlots:55,ArmorItems:[{},{},{},{id:"minecraft:heart_of_the_sea",count:1,tag:{CustomModelData:670}}]}

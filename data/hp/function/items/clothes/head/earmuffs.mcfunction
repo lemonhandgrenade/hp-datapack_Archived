@@ -1,0 +1,1 @@
+give @s minecraft:repeating_command_block[minecraft:custom_model_data=4,minecraft:enchantments={levels:{},show_in_tooltip:0b},minecraft:custom_name='{"translate":"item.hp.earmuffs","color":"white","italic":false}',minecraft:custom_data={Earmuffs:1b,Hat:1b},minecraft:hide_additional_tooltip={}] 1

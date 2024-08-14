@@ -1,0 +1,1 @@
+give @s minecraft:chain_command_block[minecraft:custom_model_data=2322,minecraft:lore=['[{"translate":"item.hp.obtained","italic":false},{"translate":"item.hp.snake_fangs.from","italic":false}]'],minecraft:custom_name='{"translate":"item.hp.snake_fangs_powdered","color":"#E9E8D3","italic":false}',minecraft:custom_data={Color:15132608,Ingredient:1b,PotionID:2322,Weight:10}] 1

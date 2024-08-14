@@ -1,0 +1,1 @@
+give @s minecraft:chain_command_block[minecraft:custom_model_data=990,minecraft:lore=['[{"translate":"item.hp.obtained","italic":false},{"translate":"item.hp.flobberworm_mucus.from","italic":false}]'],minecraft:custom_name='{"translate":"item.hp.flobberworm_mucus","color":"#9DC100","italic":false}',minecraft:custom_data={Color:10338560,Ingredient:1b,PotionID:990,Weight:400}] 1

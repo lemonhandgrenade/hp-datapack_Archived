@@ -1,1 +1,0 @@
-give @s leather_helmet{display:{Name:'{"translate":"item.hp.slytherin_scarf","italic":false}',color:8453952},CustomModelData:1} 1

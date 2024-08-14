@@ -1,0 +1,36 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:raw_iron"
+                }
+            ],
+            "functions": [
+                {
+                    "function": "minecraft:set_custom_model_data",
+                    "value": 1
+                },
+                {
+                    "function": "minecraft:set_custom_data",
+                    "tag": {
+                        "Real": 1,
+                        "Money": 1,
+                        "Sickle": 1,
+                        "Weight": 66
+                    }
+                },
+                {
+                    "function": "minecraft:set_name",
+                    "name": {
+                        "translate": "item.hp.sickle",
+                        "color": "#8C8C8C",
+                        "italic": false
+                    }
+                }
+            ]
+        }
+    ]
+}

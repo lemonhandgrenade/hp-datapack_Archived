@@ -1,0 +1,22 @@
+{
+    "display": {
+        "title": {"translate":"advancements.hp.wolfsbane.title"},
+        "description": {"translate":"advancements.hp.wolfsbane.description"},
+        "icon": {
+            "id": "minecraft:potion",
+            "components": {
+                "minecraft:custom_model_data": 228
+            }
+        },
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "parent": "hp:pack/potions/potion_maker",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

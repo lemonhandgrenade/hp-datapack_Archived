@@ -1,0 +1,25 @@
+{
+    "pools": [
+        {
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "hp:plants/fluxweed"
+                }
+            ],
+            "rolls": 1
+        },
+        {
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "hp:items/seeds/fluxweed"
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 4
+            }
+        }
+    ]
+}

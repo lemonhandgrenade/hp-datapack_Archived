@@ -1,1 +1,0 @@
-give @s leather_chestplate{display:{Name:'{"translate":"item.hp.gryffindor_upper_robes","italic":false}',color:16719104},CustomModelData:1} 1

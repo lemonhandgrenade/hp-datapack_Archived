@@ -1,0 +1,1 @@
+give @s minecraft:raw_iron[minecraft:custom_model_data=1,minecraft:custom_name='{"italic":false,"color":"#8c8c8c","translate":"item.hp.sickle"}',minecraft:custom_data={Money:1b,Real:0b,Sickle:1b,Weight:66}] 1

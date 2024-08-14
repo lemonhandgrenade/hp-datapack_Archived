@@ -1,0 +1,1 @@
+execute if data entity @s Item.components.minecraft:custom_data.PreItem run data modify entity @s Item set from entity @s Item.components.minecraft:custom_data.PreItem

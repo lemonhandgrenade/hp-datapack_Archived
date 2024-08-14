@@ -1,1 +1,0 @@
-give @s bundle{display:{Name:'{"translate":"item.hp.hufflepuff_trunk","color":"#683e29"}',Lore:['{"translate":"item.hp.hufflepuff_trunk.lore","italic":false}']},CustomModelData:40,Trunk:1b}

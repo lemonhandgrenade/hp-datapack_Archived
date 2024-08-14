@@ -1,1 +1,0 @@
-give @s chain_command_block{display:{Name:'{"translate":"item.hp.unicorn_horn","color":"#E6FFFC","italic":false}',Lore:['[{"translate":"item.hp.obtained","italic":false},{"translate":"item.hp.unicorn_horn.from","italic":false}]']},Weight:354,Ingredient:1b,MortarPestle:1b,CustomModelData:2630,PotionID:2630,Color:14280678} 1

@@ -1,1 +1,0 @@
-give @s chain_command_block{display:{Name:'{"translate":"item.hp.lacewing_fly_crushed","color":"#7A994A","italic":false}',Lore:['[{"translate":"item.hp.obtained","italic":false},{"translate":"item.hp.lacewing_fly.from","italic":false}]']},Weight:10,Ingredient:1b,CustomModelData:1411,PotionID:1411,Color:2115343} 1

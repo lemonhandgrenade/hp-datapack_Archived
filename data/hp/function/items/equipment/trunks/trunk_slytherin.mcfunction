@@ -1,0 +1,1 @@
+give @s minecraft:bundle[minecraft:custom_model_data=30,minecraft:lore=['{"translate":"item.hp.slytherin_trunk.lore","italic":false}'],minecraft:custom_name='{"translate":"item.hp.slytherin_trunk","color":"#683e29"}',minecraft:custom_data={Trunk:1b}]

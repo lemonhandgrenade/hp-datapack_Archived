@@ -1,0 +1,1774 @@
+{
+	"display": {
+		"icon": {
+			"id": "minecraft:paper",
+			"components": {
+				"minecraft:custom_model_data": 10004
+			}
+		},
+		"title": {"translate":"advancements.hp.card_collector.title"},
+		"description": {"translate":"advancements.hp.card_collector.description"},
+    	"frame": "goal",
+    	"show_toast": true,
+    	"announce_to_chat": true,
+    	"hidden": false
+	},
+	"parent": "hp:pack/wizard_card",
+	"criteria": {
+		"adalbert_waffling": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{adalbert_waffling:1b}"
+					}
+				]
+			}
+		},
+		"alberic_grunnion": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{alberic_grunnion:1b}"
+					}
+				]
+			}
+		},
+		"alberta_toothill": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{alberta_toothill:1b}"
+					}
+				]
+			}
+		},
+		"albus_dumbledore": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{albus_dumbledore:1b}"
+					}
+				]
+			}
+		},
+		"albus_dumbledore_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{albus_dumbledore_2:1b}"
+					}
+				]
+			}
+		},
+		"almeric_sawbridge": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{almeric_sawbridge:1b}"
+					}
+				]
+			}
+		},
+		"andros_the_invincible": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{andros_the_invincible:1b}"
+					}
+				]
+			}
+		},
+		"archibald_alderton": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{archibald_alderton:1b}"
+					}
+				]
+			}
+		},
+		"artemisia_lufkin": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{artemisia_lufkin:1b}"
+					}
+				]
+			}
+		},
+		"balfour_blane": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{balfour_blane:1b}"
+					}
+				]
+			}
+		},
+		"beatrix_bloxam": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{beatrix_bloxam:1b}"
+					}
+				]
+			}
+		},
+		"beatrix_bloxam_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{beatrix_bloxam_2:1b}"
+					}
+				]
+			}
+		},
+		"beaumont_marjoribanks": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{beaumont_marjoribanks:1b}"
+					}
+				]
+			}
+		},
+		"bertie_bott": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{bertie_bott:1b}"
+					}
+				]
+			}
+		},
+		"blenheim_stalk": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{blenheim_stalk:1b}"
+					}
+				]
+			}
+		},
+		"bowman_wright": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{bowman_wright:1b}"
+					}
+				]
+			}
+		},
+		"bowman_wright_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{bowman_wright_2:1b}"
+					}
+				]
+			}
+		},
+		"bridget_wenlock": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{bridget_wenlock:1b}"
+					}
+				]
+			}
+		},
+		"burdock_muldoon": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{burdock_muldoon:1b}"
+					}
+				]
+			}
+		},
+		"carlotta_pinkstone": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{carlotta_pinkstone:1b}"
+					}
+				]
+			}
+		},
+		"cassandra_vablatsky": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{cassandra_vablatsky:1b}"
+					}
+				]
+			}
+		},
+		"celestina_warbeck": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{celestina_warbeck:1b}"
+					}
+				]
+			}
+		},
+		"chauncey_oldridge": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{chauncey_oldridge:1b}"
+					}
+				]
+			}
+		},
+		"circe": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{circe:1b}"
+					}
+				]
+			}
+		},
+		"cornelius_agrippa": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{cornelius_agrippa:1b}"
+					}
+				]
+			}
+		},
+		"crispin_cronk": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{crispin_cronk:1b}"
+					}
+				]
+			}
+		},
+		"crispin_cronk_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{crispin_cronk_2:1b}"
+					}
+				]
+			}
+		},
+		"cyprian_youdle": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{cyprian_youdle:1b}"
+					}
+				]
+			}
+		},
+		"daisy_dodderidge": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{daisy_dodderidge:1b}"
+					}
+				]
+			}
+		},
+		"derwent_shimpling": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{derwent_shimpling:1b}"
+					}
+				]
+			}
+		},
+		"devlin_whitehorn": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{devlin_whitehorn:1b}"
+					}
+				]
+			}
+		},
+		"donaghan_tremlett": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{donaghan_tremlett:1b}"
+					}
+				]
+			}
+		},
+		"dorcas_wellbeloved": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{dorcas_wellbeloved:1b}"
+					}
+				]
+			}
+		},
+		"dorcas_wellbeloved_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{dorcas_wellbeloved_2:1b}"
+					}
+				]
+			}
+		},
+		"dunbar_oglethorpe": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{dunbar_oglethorpe:1b}"
+					}
+				]
+			}
+		},
+		"dunbar_oglethorpe_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{dunbar_oglethorpe_2:1b}"
+					}
+				]
+			}
+		},
+		"dymphna_furmage": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{dymphna_furmage:1b}"
+					}
+				]
+			}
+		},
+		"dzou_yen": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{dzou_yen:1b}"
+					}
+				]
+			}
+		},
+		"edgar_stroulger": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{edgar_stroulger:1b}"
+					}
+				]
+			}
+		},
+		"edgar_stroulger_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{edgar_stroulger_2:1b}"
+					}
+				]
+			}
+		},
+		"elfrida_clagg": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{elfrida_clagg:1b}"
+					}
+				]
+			}
+		},
+		"elfrida_clagg_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{elfrida_clagg_2:1b}"
+					}
+				]
+			}
+		},
+		"elladora_ketteridge": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{elladora_ketteridge:1b}"
+					}
+				]
+			}
+		},
+		"ethelred_the_ever-ready": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{ethelred_the_ever-ready:1b}"
+					}
+				]
+			}
+		},
+		"ethelred_the_ever-ready_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{ethelred_the_ever-ready_2:1b}"
+					}
+				]
+			}
+		},
+		"falco_aesalon": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{falco_aesalon:1b}"
+					}
+				]
+			}
+		},
+		"felix_summerbee": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{felix_summerbee:1b}"
+					}
+				]
+			}
+		},
+		"flavius_belby": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{flavius_belby:1b}"
+					}
+				]
+			}
+		},
+		"fulbert_the_fearful": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{fulbert_the_fearful:1b}"
+					}
+				]
+			}
+		},
+		"fulbert_the_fearful_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{fulbert_the_fearful_2:1b}"
+					}
+				]
+			}
+		},
+		"gaspard_shingleton": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{gaspard_shingleton:1b}"
+					}
+				]
+			}
+		},
+		"gideon_crumb": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{gideon_crumb:1b}"
+					}
+				]
+			}
+		},
+		"gifford_ollerton": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{gifford_ollerton:1b}"
+					}
+				]
+			}
+		},
+		"glanmore_peakes": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{glanmore_peakes:1b}"
+					}
+				]
+			}
+		},
+		"glanmore_peakes_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{glanmore_peakes_2:1b}"
+					}
+				]
+			}
+		},
+		"glenda_chittock": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{glenda_chittock:1b}"
+					}
+				]
+			}
+		},
+		"glover_hipworth": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{glover_hipworth:1b}"
+					}
+				]
+			}
+		},
+		"godric_gryffindor": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{godric_gryffindor:1b}"
+					}
+				]
+			}
+		},
+		"godric_gryffindor_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{godric_gryffindor_2:1b}"
+					}
+				]
+			}
+		},
+		"gondoline_oliphant": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{gondoline_oliphant:1b}"
+					}
+				]
+			}
+		},
+		"gregory_the_smarmy": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{gregory_the_smarmy:1b}"
+					}
+				]
+			}
+		},
+		"greta_catchlove": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{greta_catchlove:1b}"
+					}
+				]
+			}
+		},
+		"grogan_stump": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{grogan_stump:1b}"
+					}
+				]
+			}
+		},
+		"grogan_stump_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{grogan_stump_2:1b}"
+					}
+				]
+			}
+		},
+		"gulliver_pokeby": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{gulliver_pokeby:1b}"
+					}
+				]
+			}
+		},
+		"gunhilda_of_gorsemoor": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{gunhilda_of_gorsemoor:1b}"
+					}
+				]
+			}
+		},
+		"gunhilda_of_gorsemoor_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{gunhilda_of_gorsemoor_2:1b}"
+					}
+				]
+			}
+		},
+		"gwenog_jones": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{gwenog_jones:1b}"
+					}
+				]
+			}
+		},
+		"gwenog_jones_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{gwenog_jones_2:1b}"
+					}
+				]
+			}
+		},
+		"harry_potter": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{harry_potter:1b}"
+					}
+				]
+			}
+		},
+		"harry_potter_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{harry_potter_2:1b}"
+					}
+				]
+			}
+		},
+		"havelock_sweeting": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{havelock_sweeting:1b}"
+					}
+				]
+			}
+		},
+		"heathcote_barbary": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{heathcote_barbary:1b}"
+					}
+				]
+			}
+		},
+		"helga_hufflepuff": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{helga_hufflepuff:1b}"
+					}
+				]
+			}
+		},
+		"helga_hufflepuff_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{helga_hufflepuff_2:1b}"
+					}
+				]
+			}
+		},
+		"hengist_of_woodcroft": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{hengist_of_woodcroft:1b}"
+					}
+				]
+			}
+		},
+		"herman_wintringham": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{herman_wintringham:1b}"
+					}
+				]
+			}
+		},
+		"herpo_the_foul": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{herpo_the_foul:1b}"
+					}
+				]
+			}
+		},
+		"hesper_starkey": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{hesper_starkey:1b}"
+					}
+				]
+			}
+		},
+		"hesper_starkey_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{hesper_starkey_2:1b}"
+					}
+				]
+			}
+		},
+		"honoria_nutcombe": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{honoria_nutcombe:1b}"
+					}
+				]
+			}
+		},
+		"honoria_nutcombe_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{honoria_nutcombe_2:1b}"
+					}
+				]
+			}
+		},
+		"ignatia_wildsmith": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{ignatia_wildsmith:1b}"
+					}
+				]
+			}
+		},
+		"ignatia_wildsmith_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{ignatia_wildsmith_2:1b}"
+					}
+				]
+			}
+		},
+		"jocunda_sykes": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{jocunda_sykes:1b}"
+					}
+				]
+			}
+		},
+		"jocunda_sykes_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{jocunda_sykes_2:1b}"
+					}
+				]
+			}
+		},
+		"joscelind_wadcock": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{joscelind_wadcock:1b}"
+					}
+				]
+			}
+		},
+		"joscelind_wadcock_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{joscelind_wadcock_2:1b}"
+					}
+				]
+			}
+		},
+		"justus_pilliwickle": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{justus_pilliwickle:1b}"
+					}
+				]
+			}
+		},
+		"kirley_duke": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{kirley_duke:1b}"
+					}
+				]
+			}
+		},
+		"laverne_de_montmorency": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{laverne_de_montmorency:1b}"
+					}
+				]
+			}
+		},
+		"leopoldina_smethwyck": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{leopoldina_smethwyck:1b}"
+					}
+				]
+			}
+		},
+		"lord_stoddard_withers": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{lord_stoddard_withers:1b}"
+					}
+				]
+			}
+		},
+		"merlin": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{merlin:1b}"
+					}
+				]
+			}
+		},
+		"merton_graves": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{merton_graves:1b}"
+					}
+				]
+			}
+		},
+		"merwyn_the_malicious": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{merwyn_the_malicious:1b}"
+					}
+				]
+			}
+		},
+		"mirabella_plunkett": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{mirabella_plunkett:1b}"
+					}
+				]
+			}
+		},
+		"mirabella_plunkett_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{mirabella_plunkett_2:1b}"
+					}
+				]
+			}
+		},
+		"miranda_goshawk": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{miranda_goshawk:1b}"
+					}
+				]
+			}
+		},
+		"montague_knightley": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{montague_knightley:1b}"
+					}
+				]
+			}
+		},
+		"mopsus": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{mopsus:1b}"
+					}
+				]
+			}
+		},
+		"morgan_le_fay": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{morgan_le_fay:1b}"
+					}
+				]
+			}
+		},
+		"morgan_le_fay_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{morgan_le_fay_2:1b}"
+					}
+				]
+			}
+		},
+		"mungo_bonham": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{mungo_bonham:1b}"
+					}
+				]
+			}
+		},
+		"mungo_bonham_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{mungo_bonham_2:1b}"
+					}
+				]
+			}
+		},
+		"musidora_barkwith": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{musidora_barkwith:1b}"
+					}
+				]
+			}
+		},
+		"myron_wagtail": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{myron_wagtail:1b}"
+					}
+				]
+			}
+		},
+		"newt_scamander": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{newt_scamander:1b}"
+					}
+				]
+			}
+		},
+		"norvel_twonk": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{norvel_twonk:1b}"
+					}
+				]
+			}
+		},
+		"norvel_twonk_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{norvel_twonk_2:1b}"
+					}
+				]
+			}
+		},
+		"orsino_thruston": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{orsino_thruston:1b}"
+					}
+				]
+			}
+		},
+		"oswald_beamish": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{oswald_beamish:1b}"
+					}
+				]
+			}
+		},
+		"oswald_beamish_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{oswald_beamish_2:1b}"
+					}
+				]
+			}
+		},
+		"paracelsus": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{paracelsus:1b}"
+					}
+				]
+			}
+		},
+		"perpetua_fancourt": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{perpetua_fancourt:1b}"
+					}
+				]
+			}
+		},
+		"quong_po": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{quong_po:1b}"
+					}
+				]
+			}
+		},
+		"roderick_plumpton": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{roderick_plumpton:1b}"
+					}
+				]
+			}
+		},
+		"roderick_plumpton_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{roderick_plumpton_2:1b}"
+					}
+				]
+			}
+		},
+		"roland_kegg": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{roland_kegg:1b}"
+					}
+				]
+			}
+		},
+		"rowena_ravenclaw": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{rowena_ravenclaw:1b}"
+					}
+				]
+			}
+		},
+		"rowena_ravenclaw_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{rowena_ravenclaw_2:1b}"
+					}
+				]
+			}
+		},
+		"sacharissa_tugwood": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{sacharissa_tugwood:1b}"
+					}
+				]
+			}
+		},
+		"sacharissa_tugwood_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{sacharissa_tugwood_2:1b}"
+					}
+				]
+			}
+		},
+		"salazar_slytherin": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{salazar_slytherin:1b}"
+					}
+				]
+			}
+		},
+		"salazar_slytherin_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{salazar_slytherin_2:1b}"
+					}
+				]
+			}
+		},
+		"thaddeus_thurkell": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{thaddeus_thurkell:1b}"
+					}
+				]
+			}
+		},
+		"thaddeus_thurkell_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{thaddeus_thurkell_2:1b}"
+					}
+				]
+			}
+		},
+		"tilly_toke": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{tilly_toke:1b}"
+					}
+				]
+			}
+		},
+		"uric_the_oddball": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{uric_the_oddball:1b}"
+					}
+				]
+			}
+		},
+		"wendelin_the_weird": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{wendelin_the_weird:1b}"
+					}
+				]
+			}
+		},
+		"wendelin_the_weird_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{wendelin_the_weird_2:1b}"
+					}
+				]
+			}
+		},
+		"wilfred_elphick": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{wilfred_elphick:1b}"
+					}
+				]
+			}
+		},
+		"wilfred_elphick_2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{wilfred_elphick_2:1b}"
+					}
+				]
+			}
+		},
+		"xavier_rastrick": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{xavier_rastrick:1b}"
+					}
+				]
+			}
+		},
+		"yardley_platt": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:paper"
+						],
+						"nbt": "{yardley_platt:1b}"
+					}
+				]
+			}
+		}
+	}
+}

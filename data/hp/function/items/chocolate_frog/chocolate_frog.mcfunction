@@ -1,0 +1,1 @@
+give @s minecraft:cookie[minecraft:custom_model_data=1,minecraft:lore=['{"translate":"item.hp.chocolate_frog.lore","italic":false}'],minecraft:custom_name='{"translate":"item.hp.chocolate_frog","color":"#7B3F00","italic":false}'] 1

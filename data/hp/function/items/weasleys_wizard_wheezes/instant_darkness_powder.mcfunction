@@ -1,0 +1,1 @@
+give @s minecraft:snowball[minecraft:custom_model_data=11,minecraft:lore=['{"translate":"item.hp.instant_darkness_powder.lore","italic":false}','{"translate":"item.hp.instant_darkness_powder.use"}'],minecraft:custom_name='{"translate":"item.hp.instant_darkness_powder","color":"#110044","italic":false}',minecraft:custom_data={instantDarknessPowder:1b,specialBall:1b}] 1

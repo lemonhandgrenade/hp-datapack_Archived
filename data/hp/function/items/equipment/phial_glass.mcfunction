@@ -1,0 +1,1 @@
+give @s minecraft:glass_bottle[minecraft:custom_model_data=999,minecraft:lore=['[{"translate":"item.hp.phial.type","italic":false},{"translate":"item.hp.phial.glass","color":"white","italic":false}]','{"translate":"item.hp.phial.use","italic":false}'],minecraft:custom_name='{"translate":"item.hp.phial","italic":false}',minecraft:custom_data={Ingredient:1b,Weight:120}] 1
