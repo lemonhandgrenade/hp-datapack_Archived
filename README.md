@@ -9,6 +9,8 @@
 # hp-datapack
 A datapack for Minecraft revolving around the Harry Potter universe.
 
+# This pack has been discontinued. Checkout the [new repo](https://github.com/lemonhandgrenade/hp-datapack) for Minecraft 26.1.2+
+
 ---
 
 ## [Latest Release](https://github.com/lemonhandgrenade/hp-datapack/releases/latest)
